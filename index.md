@@ -13,10 +13,9 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
 
 ### リンク
 
+- [はてなブログ - "Project Fx 2.0"](https://stepney141.hatenablog.com/)：怪文書と備忘録を置いている場所
+- [Twitter](https://twitter.com/stepney141)：RT非表示推奨。ダムの放流のようにリツイートをします
 - [GitHub](https://github.com/stepney141)
-- [Twitter](https://twitter.com/stepney141)：RT非表示推奨
-  - ダムの放流のようにリツイートをするので、TLが荒れて困る方は私をRT非表示に設定して下さい。 
-- [ブログ - "Project Fx 2.0"](https://stepney141.hatenablog.com/)：怪文書と備忘録を置いている場所
 
 ## 趣味
 
@@ -37,28 +36,40 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
   - オカルティズム
   - 北極ラーメン etc.
 
-- 触った経験のある言語(非プログラミング言語含む)：UserRPL, C/C++, Python, Go, JavaScript, FORTRAN, シェルスクリプト, HTML/CSS, HotSoupProcessor
+- 触った経験のある言語(非プログラミング言語含む)：
+  - UserRPL
+  - HotSoupProcessor
+  - HTML/CSS
+  - JavaScript
+  - FORTRAN
+  - シェルスクリプト(Bash)
+  - C/C++
+  - Python3
+  - Go
 
-- 2020-10-19時点で、関数電卓を8台所有しています。  
-  - 所有機種
-    - HP50g(2台)
-    - TI-Nspire CX CAS
-    - TI-Nspire CAS with Touchpad
-    - TI-89 Titanium
-    - fx-5800p
-    - fx-9860gii
-    - EL-520F  
-  - プログラム関数電卓は本当に奥が深いです。ARMやらSuperHやらZ80やらを積んでる機種もあってかなり色々と遊べます。  
-  - 現在の個人的目標は関数電卓で音声合成をすることです。皆さんもぜひ関数電卓のプログラム機能で遊びましょう。
-  - [CombNaf](https://atnd.org/events/87946), [CombNaf 2](https://combnaf.connpass.com/event/64638/)にて、関数電卓についてのLTをさせて頂きました。
+### 人文関連
 
 - 二外としてラテン語を履修しています。
 
 - 趣味でラヴクラフト作品を翻訳中です。ファイルはGitHubに置いてあるので、誤りを発見された場合はご報告頂けると助かります。
 
-## 最近やっていること
+### 関数電卓
 
-- 『入門Haskellプログラミング』
+2020-10-19時点で、関数電卓を8台所有しています。  
+所有機種:
+
+- HP50g(2台)
+- TI-Nspire CX CAS
+- TI-Nspire CAS with Touchpad
+- TI-89 Titanium
+- fx-5800p
+- fx-9860gii
+- EL-520F  
+
+[CombNaf](https://atnd.org/events/87946), [CombNaf 2](https://combnaf.connpass.com/event/64638/)では、関数電卓についてのLTをさせて頂きました。プログラム関数電卓は本当に奥が深いです。ARMやらSuperHやらZ80やらを積んでる機種もあってかなり色々と遊べます。  
+今までプログラム関数電卓用に書いたもの：[stepney141/HP50g-works](https://github.com/stepney141/HP50g-works)
+
+## 最近やっていること
 
 - pixiv, DeviantArtのブックマークを一括DLする方法の調査（API・スクレイピング etc）
 
@@ -72,14 +83,14 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
 
 ## やりたいこと
 
-- 触りたい技術
+- 触りたい特定の技術
   - WebGL
   - Webアーカイブ
   - WebAssembly
-  - 各種言語（Rust、TypeScript、Scala、Kotlin、TMPなどのC++の深い部分、Lisp、Egison、Julia）
+  - 各種言語（Rust, TypeScript, Scala, Kotlin, TMPなどのC++の深い部分, Lisp, Egison, Julia）
   etc.
 
-- 触りたい分野
+- 触りたい技術系領域
   - 音声分析合成
   - 数式処理
   - 軌道計算
@@ -89,7 +100,7 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
   - CTF
   - 可愛い女の子を創造するための技術（3DCG, MMD, Blender, Live2D, Unity, UE4, VR/AR）
 
-- 人文系関係の本を色々読む
+- その他触れたい分野
   - バロック以前の古代・中世音楽史
   - 魔術関連の資料集め
   - 変体仮名をやって江戸時代の読本を読みたい
@@ -98,7 +109,7 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
 
 - 旅行（東北を鉄道で周りたい。海沿いのどこかの無人駅のそばで野宿したい）
 
-## 関連
+## 関連リンク
 
 - [Mastodon(mstdn.maud.io)](https://mstdn.maud.io/@stepney141)
 - [読書メーター](https://bookmeter.com/users/1003258)：現在の蔵書・中高の図書室で読んだ本・処分した蔵書を適当に登録している
