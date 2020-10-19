@@ -36,7 +36,7 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
   - オカルティズム
   - 北極ラーメン etc.
 
-- 触った経験のある言語(非プログラミング言語含む)：
+- 触った経験のある言語(非プログラミング言語含む, 触った順)：
   - UserRPL
   - HotSoupProcessor
   - HTML/CSS
@@ -45,13 +45,14 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
   - シェルスクリプト(Bash)
   - C/C++
   - Python3
-  - Go
+  - SQL
+  - Golang
 
 ### 人文関連
 
 - 二外としてラテン語を履修しています。
 
-- 趣味でラヴクラフト作品を翻訳中です。ファイルはGitHubに置いてあるので、誤りを発見された場合はご報告頂けると助かります。
+- 趣味でラヴクラフト作品を翻訳中です。ファイルはGitHubに置いてあるので、誤りを発見された場合はご報告頂けると助かります([GitHubリポジトリ](https://github.com/stepney141/translation-works))。
 
 ### 関数電卓
 
@@ -75,11 +76,11 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
 
 ## 最近やっていること
 
-- pixiv, DeviantArtのブックマークを一括DLする方法の調査（API・スクレイピング etc）
+- pixiv, DeviantArtのブックマークを一括DLする方法の調査(API, スクレイピング etc.)
 
 - Twitterのブックマーク関連非公開APIの調査
 
-- 汎用ボードゲームエンジンOSS「[Dagaz](https://github.com/GlukKazan/Dagaz)」のリファクタリング
+- OSSの汎用ボードゲームエンジン「[Dagaz](https://github.com/GlukKazan/Dagaz)」のリファクタリング
 
 - 将棋史の勉強
 
@@ -91,7 +92,7 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
   - WebGL
   - Webアーカイブ
   - WebAssembly
-  - 各種言語（Rust, TypeScript, Scala, Kotlin, TMPなどのC++の深い部分, Lisp, Egison, Julia）
+  - 各種言語(Rust, TypeScript, Scala, Kotlin, TMPなどのC++の深い部分, Lisp, Egison, Julia)
   etc.
 
 - 触りたい技術系領域
@@ -102,17 +103,17 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
   - 進化計算
   - 人工生命
   - CTF
-  - 可愛い女の子を創造するための技術（3DCG, MMD, Blender, Live2D, Unity, UE4, VR/AR）
+  - 可愛い女の子を創造するための技術(3DCG, MMD, Blender, Live2D, Unity, UE4, VR/AR)
   etc.
 
 - その他触れたい分野
   - バロック以前の古代・中世音楽史
   - 魔術関連の資料集め
   - 変体仮名をやって江戸時代の読本を読みたい
-  - 将棋史の勉強
+  - 将棋史
   etc.
 
-- 旅行（東北を鉄道で周りたい。海沿いのどこかの無人駅のそばで野宿したい）
+- 旅行 (東北を鉄道で周りたい。海沿いのどこかの無人駅のそばで野宿したい)
 
 ## 関連リンク
 
