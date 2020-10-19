@@ -18,7 +18,7 @@
         <div id="container">
             <script>
                 axios.get('./index.md')
-                    .then(response => document.querySelector('#content').innerHTML = marked(response.data));
+                    .then(response => document.querySelector('#container').innerHTML = marked(response.data));
             </script>
         </div>
     </body>
