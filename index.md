@@ -18,7 +18,7 @@ stepney => IPA表記: /ˈstɛpni/
 
 - [GitHub](https://github.com/stepney141)
 - [Twitter](https://twitter.com/stepney141)：RT非表示推奨
-- [ブログ - "Project Fx 2.0"](stepney141.hatenablog.com/)：怪文書と備忘録を置いている場所
+- [ブログ - "Project Fx 2.0"](https://stepney141.hatenablog.com/)：怪文書と備忘録を置いている場所
 
 ## 趣味
 
