@@ -22,9 +22,9 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
 コンピュータで色々やったり、本を読んだりして遊んでいます。AtCoder灰色です。  
 中高時代は鉄道研究部とコンピュータ部に所属していました。
 
-- 好きな技術/分野：関数電卓プログラミング、Web開発 etc.
+- メイン趣味：プログラム関数電卓のコーディング/ハック, Web開発, 読書 etc.
 
-- 好きな創作物：禁書、型月、エヴァ、ジョジョ、ゴ魔乙、SCP、プリキュア etc.
+- 好きなコンテンツ：禁書, 型月, エヴァ, ジョジョ, ゴ魔乙, SCP Foundation, プリキュア etc.
 
 - その他趣味：
   - クラシック音楽
@@ -67,7 +67,11 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
 - EL-520F  
 
 [CombNaf](https://atnd.org/events/87946), [CombNaf 2](https://combnaf.connpass.com/event/64638/)では、関数電卓についてのLTをさせて頂きました。プログラム関数電卓は本当に奥が深いです。ARMやらSuperHやらZ80やらを積んでる機種もあってかなり色々と遊べます。  
-今までプログラム関数電卓用に書いたもの：[stepney141/HP50g-works](https://github.com/stepney141/HP50g-works)
+
+今までプログラム関数電卓用に書いたもの：
+
+- [stepney141/HP50g-works](https://github.com/stepney141/HP50g-works)
+- [関数電卓は『リチャードソンの夢』を見るか？ 〜関数電卓による気象数値予報の試み〜](https://stepney141.hatenablog.com/entry/2020/05/27/071742)
 
 ## 最近やっていること
 
