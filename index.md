@@ -99,6 +99,7 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
   - 人工生命
   - CTF
   - 可愛い女の子を創造するための技術（3DCG, MMD, Blender, Live2D, Unity, UE4, VR/AR）
+  etc.
 
 - その他触れたい分野
   - バロック以前の古代・中世音楽史
