@@ -15,12 +15,12 @@
     </head>
 
     <body>
-        <div id="container">
-            <script>
-                axios.get('./index.md')
-                    .then(response => document.querySelector('#container').innerHTML = marked(response.data));
-            </script>
-        </div>
+        <div id="container"></div>
+        <script>
+            axios.get('./index.md')
+                .then(response => document.querySelector('#container').innerHTML = marked(response.data));
+        </script>
+
     </body>
 
 </html>
