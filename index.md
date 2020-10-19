@@ -14,7 +14,7 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
 ### リンク
 
 - [はてなブログ - "Project Fx 2.0"](https://stepney141.hatenablog.com/)：怪文書と備忘録を置いている場所
-- [Twitter](https://twitter.com/stepney141)：RT非表示推奨。ダムの放流のようにリツイートをします
+- [Twitter](https://twitter.com/stepney141)：リツイート大量につきRT非表示推奨
 - [GitHub](https://github.com/stepney141)
 
 ## 趣味
