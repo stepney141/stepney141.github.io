@@ -18,7 +18,7 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
 - [Mastodon(mstdn.maud.io)](https://mstdn.maud.io/@stepney141)
 - [GitHub](https://github.com/stepney141)
 - [読書メーター](https://bookmeter.com/users/1003258)：現在の蔵書・中高の図書室で読んだ本・処分した蔵書を適当に登録している
-- [Amazon欲しいものリスト](https://www.amazon.jp/hz/wishlist/ls/9DMJ9MP1LX82?ref_=wl_share:embed:cite)：5000兆円欲しい
+<!-- - [Amazon欲しいものリスト](https://www.amazon.jp/hz/wishlist/ls/9DMJ9MP1LX82?ref_=wl_share:embed:cite)：5000兆円欲しい -->
 
 ## 趣味
 
