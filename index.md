@@ -11,11 +11,14 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
 
 5chトリップ：◆sOHUy6jdA4II , ◆dR229TZisIOd
 
-### リンク
+### SNSなど
 
 - [はてなブログ - "Project Fx 2.0"](https://stepney141.hatenablog.com/)：怪文書と備忘録を置いている場所
 - [Twitter](https://twitter.com/stepney141)：リツイート大量につきRT非表示推奨
+- [Mastodon(mstdn.maud.io)](https://mstdn.maud.io/@stepney141)
 - [GitHub](https://github.com/stepney141)
+- [読書メーター](https://bookmeter.com/users/1003258)：現在の蔵書・中高の図書室で読んだ本・処分した蔵書を適当に登録している
+- [Amazon欲しいものリスト](https://www.amazon.jp/hz/wishlist/ls/9DMJ9MP1LX82?ref_=wl_share:embed:cite)：5000兆円欲しい
 
 ## 趣味
 
@@ -67,15 +70,15 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
 ### 関数電卓
 
 2020-10-19時点で、関数電卓を8台所有しています。  
-所有機種:
+所有機種(購入順):
 
-- HP50g(2台)
-- TI-Nspire CX CAS
+- SHARP EL-520F
+- HP 50g (2台)
 - TI-Nspire CAS with Touchpad
+- TI-Nspire CX CAS
+- CASIO fx-5800p
+- CASIO fx-9860gii
 - TI-89 Titanium
-- fx-5800p
-- fx-9860gii
-- EL-520F  
 
 [CombNaf](https://atnd.org/events/87946), [CombNaf 2](https://combnaf.connpass.com/event/64638/)では、関数電卓についてのLTをさせて頂きました。プログラム関数電卓は本当に奥が深いです。ARMやらSuperHやらZ80やらを積んでる機種もあってかなり色々と遊べます。  
 
@@ -113,6 +116,7 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
   - 進化計算
   - 人工生命
   - CTF
+  - 強化学習
   - 可愛い女の子を創造するための技術(3DCG, MMD, Blender, Live2D, Unity, UE4, VR/AR)
   etc.
 
@@ -124,9 +128,3 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
   etc.
 
 - 旅行 (東北を鉄道で周りたい。海沿いのどこかの無人駅のそばで野宿したい)
-
-## 関連リンク
-
-- [Mastodon(mstdn.maud.io)](https://mstdn.maud.io/@stepney141)
-- [読書メーター](https://bookmeter.com/users/1003258)：現在の蔵書・中高の図書室で読んだ本・処分した蔵書を適当に登録している
-- [Amazon欲しいものリスト](https://www.amazon.jp/hz/wishlist/ls/9DMJ9MP1LX82?ref_=wl_share:embed:cite)：5000兆円欲しい
