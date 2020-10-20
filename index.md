@@ -60,6 +60,7 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
   - Python3
   - SQL
   - Golang
+  - Haskell (入門中)
 
 ### 人文関連
 
