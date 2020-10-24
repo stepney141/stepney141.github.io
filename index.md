@@ -20,6 +20,14 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
 - [読書メーター](https://bookmeter.com/users/1003258)：現在の蔵書・中高の図書室で読んだ本・処分した蔵書を適当に登録している
 <!-- - [Amazon欲しいものリスト](https://www.amazon.jp/hz/wishlist/ls/9DMJ9MP1LX82?ref_=wl_share:embed:cite)：5000兆円欲しい -->
 
+### 最近やっていること
+
+- pixiv, DeviantArtのブックマークを一括DLする方法の調査(API, スクレイピング etc.)
+- Twitterのブックマーク関連非公開APIの調査
+- OSSの汎用ボードゲームエンジン「[Dagaz](https://github.com/GlukKazan/Dagaz)」のリファクタリング
+- 将棋史の勉強
+- グラフ関数電卓で遺伝的アルゴリズムしたい
+
 ## 趣味
 
 コンピュータで色々やったり、本を読んだりして遊んでいます。AtCoder灰色です。  
@@ -43,11 +51,15 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
   - クラシック音楽
   - 海外鉄道
   - 廃墟/Urbex
+  - 世界史/日本史
   - 民俗学/民間伝承/神話学
   - 古典日本文学
   - クトゥルフ神話
   - オカルティズム
   - 北極ラーメン etc.
+
+- 二外としてラテン語を履修しています。
+- 趣味でラヴクラフト作品を翻訳中です。ファイルはGitHubに置いてあるので、誤りを発見された場合はご報告頂けると助かります([GitHubリポジトリ](https://github.com/stepney141/translation-works))。
 
 - 触った経験のある言語(非プログラミング言語含む, 触った順)：
   - UserRPL
@@ -62,15 +74,9 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
   - Golang
   - Haskell (入門中)
 
-### 人文関連
-
-- 二外としてラテン語を履修しています。
-
-- 趣味でラヴクラフト作品を翻訳中です。ファイルはGitHubに置いてあるので、誤りを発見された場合はご報告頂けると助かります([GitHubリポジトリ](https://github.com/stepney141/translation-works))。
-
 ### 関数電卓
 
-2020-10-19時点で、関数電卓を8台所有しています。  
+2020-10-24時点で、関数電卓を11台所有しています。  
 所有機種(購入順):
 
 - SHARP EL-520F
@@ -80,27 +86,19 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
 - CASIO fx-5800p
 - CASIO fx-9860gii
 - TI-89 Titanium
+- NumWorks (Hardware Revision: N0110)
+- TI-Nspire CX II CAS
+- HP Prime G2
 
-[CombNaf](https://atnd.org/events/87946), [CombNaf 2](https://combnaf.connpass.com/event/64638/)では、関数電卓についてのLTをさせて頂きました。プログラム関数電卓は本当に奥が深いです。ARMやらSuperHやらZ80やらを積んでる機種もあってかなり色々と遊べます。  
+[CombNaf](https://atnd.org/events/87946), [CombNaf 2](https://combnaf.connpass.com/event/64638/)では、関数電卓についてのLTをさせて頂きました。
+プログラム関数電卓は本当に奥が深いです。ARMやらSuperHやらZ80やらを積んでる機種もあってかなり色々と遊べます。  
 
 今までプログラム関数電卓用に書いたもの：
 
 - [stepney141/HP50g-works](https://github.com/stepney141/HP50g-works)
 - [関数電卓は『リチャードソンの夢』を見るか？ 〜関数電卓による気象数値予報の試み〜](https://stepney141.hatenablog.com/entry/2020/05/27/071742)
 
-## 最近やっていること
-
-- pixiv, DeviantArtのブックマークを一括DLする方法の調査(API, スクレイピング etc.)
-
-- Twitterのブックマーク関連非公開APIの調査
-
-- OSSの汎用ボードゲームエンジン「[Dagaz](https://github.com/GlukKazan/Dagaz)」のリファクタリング
-
-- 将棋史の勉強
-
-- グラフ関数電卓で遺伝的アルゴリズムしたい
-
-## やりたいこと
+## いずれやりたいこと
 
 - 触りたい特定の技術
   - WebGL
