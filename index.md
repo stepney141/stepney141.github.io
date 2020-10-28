@@ -1,6 +1,6 @@
 # stepney141 / Yumiya
 
-Last-Modified:2020-10-19
+Last-Modified:2020-10-29
 
 ## 概要
 
@@ -24,7 +24,7 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
 
 - pixiv, DeviantArtのブックマークを一括DLする方法の調査(API, スクレイピング etc.)
 - Twitterのブックマーク関連非公開APIの調査
-- OSSの汎用ボードゲームエンジン「[Dagaz](https://github.com/GlukKazan/Dagaz)」のリファクタリング
+- Javascript製の汎用ボードゲームエンジン「[Dagaz](https://github.com/GlukKazan/Dagaz)」のリファクタリング
 - 将棋史の勉強
 - グラフ関数電卓で遺伝的アルゴリズムしたい
 
