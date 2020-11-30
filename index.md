@@ -1,31 +1,31 @@
 # stepney141 / Yumiya
 
-Last-Modified:2020-10-29
+Last-Modified:2020-11-30
 
 ## 概要
 
-計算機, 人文科学などをかじっているオタクです。
-某中高からn=1を経て某大学経済学部にてB1をやっています。
+計算機, 人文科学などをかじっているオタクです。  
+経歴：KGS150th, n=1, 某大学経済学部B1（2020年現在）
 
 stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と書くらしいです。
 
 5chトリップ：◆sOHUy6jdA4II , ◆dR229TZisIOd
 
+連絡先：stepney141andi.c.i (at) gmail.com
+
 ### SNSなど
 
 - [はてなブログ - "Project Fx 2.0"](https://stepney141.hatenablog.com/)：怪文書と備忘録を置いている場所
 - [Twitter](https://twitter.com/stepney141)：リツイート大量につきRT非表示推奨
-- [Mastodon(mstdn.maud.io)](https://mstdn.maud.io/@stepney141)
+- [Mastodon (mstdn.maud.io)](https://mstdn.maud.io/@stepney141)
 - [GitHub](https://github.com/stepney141)
 - [読書メーター](https://bookmeter.com/users/1003258)：現在の蔵書・中高の図書室で読んだ本・処分した蔵書を適当に登録している
 <!-- - [Amazon欲しいものリスト](https://www.amazon.jp/hz/wishlist/ls/9DMJ9MP1LX82?ref_=wl_share:embed:cite)：5000兆円欲しい -->
 
 ### 最近やっていること
 
-- pixiv, DeviantArtのブックマークを一括DLする方法の調査(API, スクレイピング etc.)
-- Twitterのブックマーク関連非公開APIの調査
 - Javascript製の汎用ボードゲームエンジン「[Dagaz](https://github.com/GlukKazan/Dagaz)」のリファクタリング
-- 将棋史の勉強
+- 将棋史の学習
 - グラフ関数電卓で遺伝的アルゴリズムしたい
 
 ## 趣味
@@ -36,7 +36,8 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
 - メイン趣味：
   - プログラム関数電卓のコーディング/ハック
   - Web開発
-  - 読書 etc.
+  - 読書
+  - 計算機科学 etc.
 
 - 好きなコンテンツ：
   - 禁書
@@ -51,15 +52,22 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
   - クラシック音楽
   - 海外鉄道
   - 廃墟/Urbex
-  - 世界史/日本史
+  - 史学
   - 民俗学/民間伝承/神話学
   - 古典日本文学
   - クトゥルフ神話
   - オカルティズム
-  - 北極ラーメン etc.
+  - ラブクラフト作品の翻訳
+    - 誤りを発見された場合はご報告頂けると助かります([GitHubリポジトリ](https://github.com/stepney141/translation-works))。
+  - 北極ラーメン
+  etc.
 
-- 二外としてラテン語を履修しています。
-- 趣味でラヴクラフト作品を翻訳中です。ファイルはGitHubに置いてあるので、誤りを発見された場合はご報告頂けると助かります([GitHubリポジトリ](https://github.com/stepney141/translation-works))。
+- 趣味ではないけど一応触った経験がある分野：
+  - 天体の軌道計算
+  - 気象の数値予報
+  - 音声信号処理
+  - 競プロ
+  - ラテン語
 
 - 触った経験のある言語(非プログラミング言語含む, 触った順)：
   - UserRPL
@@ -77,7 +85,8 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
 ### 関数電卓
 
 2020-10-24時点で、関数電卓を11台所有しています。  
-所有機種(購入順):
+
+所有機種(購入順)：
 
 - SHARP EL-520F
 - HP 50g (2台)
@@ -90,7 +99,7 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
 - TI-Nspire CX II CAS
 - HP Prime G2
 
-[CombNaf](https://atnd.org/events/87946), [CombNaf 2](https://combnaf.connpass.com/event/64638/)では、関数電卓についてのLTをさせて頂きました。
+[CombNaf](https://atnd.org/events/87946), [CombNaf 2](https://combnaf.connpass.com/event/64638/)では、関数電卓についてのLTをさせて頂きました。  
 プログラム関数電卓は本当に奥が深いです。ARMやらSuperHやらZ80やらを積んでる機種もあってかなり色々と遊べます。  
 
 今までプログラム関数電卓用に書いたもの：
@@ -107,7 +116,7 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
   - 各種言語(Rust, TypeScript, Scala, Kotlin, TMPなどのC++の深い部分, Lisp, Egison, Julia)
   etc.
 
-- 触りたい技術系領域
+- 趣味にしたい技術系領域
   - 音声分析合成
   - 数式処理
   - 軌道計算
@@ -115,7 +124,7 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
   - 進化計算
   - 人工生命
   - CTF
-  - 強化学習
+  - 機械学習
   - 可愛い女の子を創造するための技術(3DCG, MMD, Blender, Live2D, Unity, UE4, VR/AR)
   etc.
 
