@@ -32,10 +32,11 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
 コンピュータで色々やったり、本を読んだりするのが好きです。  
 中高時代は鉄道研究部とコンピュータ部に所属していました。
 
-- メイン趣味：
-  - プログラム関数電卓のコーディング/ハック
+- 趣味：
   - 読書
-  - 計算機科学 etc.
+  - 計算機科学
+  - ネットサーフィン  
+  etc.
 
 - 好きなコンテンツ：
   - 禁書
@@ -108,12 +109,12 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
 
 ## いずれやりたいこと
 
-- 触りたい特定の技術
+- 知見を深めたい特定の技術
   - WebGL
   - Webアーカイブ
   - WebAssembly
   - グラフ関数電卓で遺伝的アルゴリズムしたい
-  - 各種言語(Rust, TypeScript, Scala, Kotlin, TMPなどのC++の深い部分, Lisp, Egison, Julia)
+  - 各種言語(Rust, TypeScript, Scala, Kotlin, TMPなどのC++の深い部分, Lisp, Egison, Julia, Nim)
   etc.
 
 - 趣味にしたい技術系領域
