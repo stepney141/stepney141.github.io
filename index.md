@@ -1,13 +1,17 @@
 # stepney141 / Yumiya
 
-Last-Modified:2020-11-30
+Last-Modified:2021-01-06
 
 ## About me
 
 計算機, 人文科学などをかじっているオタクです。
 stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と書くらしいです。
 
-経歴：KGS150th, n=1, 某大学経済学部B1(2020年現在)
+経歴：
+
+- KGS150th
+- n=1 (駿台予備学校)
+- 現在：某大学経済学部B1
 
 ## Contacts
 
