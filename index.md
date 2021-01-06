@@ -12,7 +12,7 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
 ## Contacts
 
 - [Blog - "Project Fx 2.0"](https://stepney141.hatenablog.com/): 怪文書と備忘録を置いている場所
-- [Twitter](https://twitter.com/stepney141: リツイート大量につきRT非表示推奨
+- [Twitter](https://twitter.com/stepney141): リツイート大量につきRT非表示推奨
 - [Mastodon (mstdn.maud.io)](https://mstdn.maud.io/@stepney141)
 - [GitHub](https://github.com/stepney141)
 - [読書メーター](https://bookmeter.com/users/1003258): 現在の蔵書・中高の図書室で読んだ本・処分した蔵書を適当に登録している
@@ -34,7 +34,7 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
   - 読書
   - 計算機科学
   - ネットサーフィン
-  - Webアーカイブ
+  - Webアーカイブ  
   etc.
 
 - 好きなコンテンツ：
@@ -42,9 +42,8 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
   - 型月
   - エヴァ
   - ジョジョ
-  - ゴ魔乙
   - SCP Foundation
-  - プリキュア  
+  - プリキュア    
   etc.
 
 - その他好きなもの：
@@ -52,7 +51,6 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
   - クラシック音楽
   - 海外鉄道
   - 廃墟/Urbex
-  - 史学
   - 民俗学/民間伝承/神話学
   - オカルティズム
   - 古典日本文学
@@ -83,7 +81,7 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
 
 ### Graphing Calculator
 
-2020-10-24時点で、関数電卓を11台所有しています。  
+2021-01-06時点で、関数電卓を11台所有しています。  
 
 所有機種(購入順)：
 
@@ -106,6 +104,7 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
 - [stepney141/HP50g-works](https://github.com/stepney141/HP50g-works)
 - [関数電卓は『リチャードソンの夢』を見るか？ 〜関数電卓による気象数値予報の試み〜](https://stepney141.hatenablog.com/entry/2020/05/27/071742)
 - [関数電卓プログラミングの世界](https://stepney141.hatenablog.com/entry/2020/12/01/235856)
+- [stepney141/ndless-docker](https://github.com/stepney141/ndless-docker)
 
 ## Things I want to do
 
@@ -121,12 +120,13 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
   - 軌道計算
   - 流体の数値計算
   - 進化計算
+  - 暗号技術
+  - 経済学
   - 人工生命
-  - CTF
   - 機械学習
   - 可愛い女の子を創造するための技術(3DCG, MMD, Blender, Live2D, Unity, UE4, VR/AR)
   - WebGL
-  - WebAssembly
+  - WebAssembly  
   etc.
 
 - その他触れたいもの
