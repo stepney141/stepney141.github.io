@@ -1,6 +1,6 @@
 # stepney141 / Yumiya
 
-Last-Modified:2021-01-06
+Last-Modified:2021-01-07
 
 ## About me
 
@@ -116,7 +116,9 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
   - グラフ関数電卓で遺伝的アルゴリズムしたい、ネイティブ開発したい
   - 各種プログラミング言語(Rust, TypeScript, Scala, Kotlin, TMPなどのC++の深い部分, Lisp, Egison, Julia, Nim)をやりたい
   - ソフトシンセサイザー作りたい
-  etc.
+  - Twitterアカウントを走査してブロックされているか否かをチェックするスクリプトを書きたい
+  - Twitter Bookmark APIの仕様を完全解析したい (関連: [WIP: Twitter Undocumented Endpoints for Bookmark](https://gist.github.com/stepney141/c161a83f02c42e161c905249733b9225))  
+  etc. (その他やりたいことのメモ: [#stepney141のメモ](https://twilog.org/stepney141/search?word=%23stepney141%E3%81%AE%E3%83%A1%E3%83%A2&ao=a)) 
 
 - 知りたいこと
   - 音声分析合成
