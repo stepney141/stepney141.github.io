@@ -1,6 +1,6 @@
 # stepney141 / Yumiya
 
-Last-Modified:2021-01-07
+Last-Modified:2021-01-08
 
 ## About me
 
@@ -9,9 +9,9 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
 
 経歴：
 
-- KGS150th
-- n=1 (駿台予備学校)
-- 現在：某大学経済学部B1
+- 2013~2018: kgs150th
+- 2019: n=1 (駿台予備学校)
+- 2020: 某大学経済学部B1
 
 ## Contacts
 
@@ -108,6 +108,7 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
 - [stepney141/HP50g-works](https://github.com/stepney141/HP50g-works)
 - [関数電卓は『リチャードソンの夢』を見るか？ 〜関数電卓による気象数値予報の試み〜](https://stepney141.hatenablog.com/entry/2020/05/27/071742)
 - [関数電卓プログラミングの世界](https://stepney141.hatenablog.com/entry/2020/12/01/235856)
+- [関数電卓プログラミングの世界：闇の魔術編](https://stepney141.hatenablog.com/entry/2020/12/24/235437)
 - [stepney141/ndless-docker](https://github.com/stepney141/ndless-docker)
 
 ## Things I want to do
@@ -118,7 +119,7 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
   - ソフトシンセサイザー作りたい
   - Twitterアカウントを走査してブロックされているか否かをチェックするスクリプトを書きたい
   - Twitter Bookmark APIの仕様を完全解析したい (関連: [WIP: Twitter Undocumented Endpoints for Bookmark](https://gist.github.com/stepney141/c161a83f02c42e161c905249733b9225))  
-  etc. (その他やりたいことのメモ: [#stepney141のメモ](https://twilog.org/stepney141/search?word=%23stepney141%E3%81%AE%E3%83%A1%E3%83%A2&ao=a)) 
+  - その他やりたいことのメモなど: [#stepney141のメモ](https://twilog.org/stepney141/search?word=%23stepney141%E3%81%AE%E3%83%A1%E3%83%A2&ao=a)
 
 - 知りたいこと
   - 音声分析合成
