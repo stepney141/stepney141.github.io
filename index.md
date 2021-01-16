@@ -2,6 +2,8 @@
 
 Last-Modified:2021-01-14
 
+[English](en.html)
+
 ## About me
 
 計算機, 人文科学などをかじっているオタクです。
