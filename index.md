@@ -1,6 +1,6 @@
 # stepney141 / Yumiya
 
-Last-Modified:2021-01-31
+Last-Modified: 2021-02-14
 
 [English](en.html)
 
@@ -11,18 +11,19 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
 
 経歴：
 
-- 2013: kgs150th入学
-- 2019: n=1 (駿台予備学校)
+- 2000: 誕生
+- 2013: 某中高一貫校入学(kgs150th)
+- 2019: 駿台予備学校入学
 - 2020: 某大学経済学部入学
 
 ## Contacts
 
-- [Twitter (@stepney141)](https://twitter.com/stepney141): リツイート大量につきRT非表示推奨
-- [Mastodon (stepney141@mstdn.maud.io)](https://mstdn.maud.io/@stepney141)
-- [GitHub (stepney141)](https://github.com/stepney141)
-- [Blog - "Project Fx 2.0"](https://stepney141.hatenablog.com/): 怪文書と備忘録を置いている場所
-- [読書メーター](https://bookmeter.com/users/1003258): 現在の蔵書・中高の図書室で読んだ本・処分した蔵書を適当に登録している
-- E-mail: stepney141andi.c.i (at) gmail.com
+- Twitter - [@stepney141](https://twitter.com/stepney141): リツイート大量につきRT非表示推奨
+- Mastodon - [stepney141@mstdn.maud.io](https://mstdn.maud.io/@stepney141)
+- GitHub - [stepney141](https://github.com/stepney141)
+- Blog - ["Project Fx 2.0"](https://stepney141.hatenablog.com/): 怪文書と備忘録を置いている場所
+- Bookmeter - [ゆみや](https://bookmeter.com/users/1003258): 現在の蔵書・中高の図書室で読んだ本・処分した蔵書を適当に登録している
+- E-Mail: stepney141andi.c.i (at) gmail.com
 - 5chトリップ: ◆sOHUy6jdA4II / ◆dR229TZisIOd
 <!-- - [Amazon欲しいものリスト](https://www.amazon.jp/hz/wishlist/ls/9DMJ9MP1LX82?ref_=wl_share:embed:cite)：5000兆円欲しい -->
 
