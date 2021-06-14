@@ -18,8 +18,9 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
 
 - [CombNaf](https://atnd.org/events/87946)参加：関数電卓についてのLT
 - [CombNaf 2](https://combnaf.connpass.com/event/64638/)参加：関数電卓でLinuxを動かそうとして失敗した話のLT
-- [上智エレラボ Advent Calendar 2020](https://qiita.com/advent-calendar/2020/sophia_ele_lab)寄稿
 - [闇の魔術に対する防衛術 Advent Calendar 2020](https://qiita.com/advent-calendar/2020/yaminomajutu)寄稿
+- [Board Gamed Design Advent Calendar 2020](https://adventar.org/calendars/5432)寄稿  
+など
 
 ## Links
 
@@ -76,22 +77,26 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
   - 競プロ（AtCoder灰色）
 
 - 触った経験のあるコンピュータ言語(習熟度はバラつきあり)：
-  - UserRPL
-  - HotSoupProcessor
-  - HTML/CSS
-  - JavaScript
-  - FORTRAN
-  - シェルスクリプト(Bash)
-  - C/C++
-  - Python
-  - SQL
-  - Golang
+  - UserRPL (けっこう書ける)
+  - HotSoupProcessor (少しなら書ける)
+  - C# (書けない)
+  - Java (書けない)
+  - HTML/CSS (書ける)
+  - JavaScript (書ける)
+  - FORTRAN (少しなら書ける)
+  - シェルスクリプト (書ける)
+  - C (少しなら書ける)
+  - C++ (少しなら書ける)
+  - Python (書ける)
+  - SQL (少しなら書ける)
+  - Golang (少しなら書ける)
   - Haskell (入門中)
+  - TypeScript (少しなら書ける)
 
 ### Graphing Calculator
 
 2021-03-16時点で、関数電卓を12台所有しています。  
-関数電卓の収集や評論というよりも、高機能な関数電卓を使ったプログラミングやリバースエンジニアリングに興味があります。  
+関数電卓の収集や評論というよりも、高機能な関数電卓を使ったプログラミングや関数電卓のリバースエンジニアリングに興味があります。  
 プログラム関数電卓は本当に奥が深いです。ARMやらSuperHやらZ80やらを積んでる機種もあってかなり色々と遊べます。  
 
 所有機種(購入順)：
@@ -120,11 +125,18 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
 
 - やりたいこと
   - グラフ関数電卓で遺伝的アルゴリズムしたい、ネイティブ開発したい
-  - 各種プログラミング言語(Rust, TypeScript, Scala, Kotlin, TMPなどのC++の深い部分, Lisp, Egison, Julia, Nim)をやりたい
   - ソフトシンセサイザー作りたい
   - Twitterアカウントを走査してブロックされているか否かをチェックするスクリプトを書きたい
   - Twitter Bookmark APIの仕様を完全解析したい (関連: [WIP: Twitter Undocumented Endpoints for Bookmark](https://gist.github.com/stepney141/c161a83f02c42e161c905249733b9225))  
   - その他やりたいことのメモなど: [#stepney141のメモ](https://twilog.org/stepney141/search?word=%23stepney141%E3%81%AE%E3%83%A1%E3%83%A2&ao=a)
+
+- 触りたいコンピュータ言語
+  - Rust
+  - Scala
+  - Lisp
+  - Egison
+  - Julia
+  - Nim
 
 - 知りたいこと
   - 音声分析合成
