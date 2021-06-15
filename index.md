@@ -77,10 +77,11 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
   - 競プロ（AtCoder灰色）
 
 - 触った経験のあるコンピュータ言語(習熟度はバラつきあり)：
-  - UserRPL (けっこう書ける)
+  - UserRPL (ちょっとできる)
   - HotSoupProcessor (少しなら書ける)
-  - C# (書けない)
-  - Java (書けない)
+  - C# (文法は知ってる)
+  - Java (文法は知ってる)
+  - Lua (少しなら書ける)
   - HTML/CSS (書ける)
   - JavaScript (書ける)
   - FORTRAN (少しなら書ける)
