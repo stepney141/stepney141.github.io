@@ -29,8 +29,8 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
 - GitHub - [stepney141](https://github.com/stepney141)
 - Blog - ["Project Fx 2.0"](https://stepney141.hatenablog.com/): 怪文書と備忘録を置いている場所
 - Bookmeter - [ゆみや](https://bookmeter.com/users/1003258): 現在の蔵書・中高の図書室で読んだ本・処分した蔵書を適当に登録している
-- E-Mail: stepney141andi.c.i (at) gmail.com
-- 5chトリップ: ◆sOHUy6jdA4II / ◆dR229TZisIOd
+- E-Mail -  stepney141andi.c.i (at) gmail.com
+- 5chトリップ - ◆sOHUy6jdA4II / ◆dR229TZisIOd
 <!-- - [Amazon欲しいものリスト](https://www.amazon.jp/hz/wishlist/ls/9DMJ9MP1LX82?ref_=wl_share:embed:cite)：5000兆円欲しい -->
 
 ## Interest Area
@@ -39,7 +39,7 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
   - 読書
   - プログラミング(主にWeb開発)
   - ネットサーフィン(Twitter含む)
-  - Webアーカイブ  
+  - Webアーカイブ
   etc.
   
 - 興味・関心：極めて雑食
@@ -64,7 +64,7 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
   - クトゥルフ神話
     - ラブクラフト作品の翻訳を趣味でしています([GitHubリポジトリ](https://github.com/stepney141/translation-works))。誤りを発見された場合はご報告頂けると助かります
   - 北極ラーメン
-  - 古将棋・フェアリーチェス 
+  - 古将棋・フェアリーチェス
   etc.
 
 - 少し触った経験があり、今でもそれなりに興味がある分野：
@@ -139,7 +139,7 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
   - Julia
   - Nim
 
-- 知りたいこと
+- 知りたい・やりたい分野
   - 音声分析合成
   - 数式処理
   - 軌道計算
@@ -152,6 +152,7 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
   - WebGL
   - WebAssembly  
   - Webアーカイブ用クローラ開発
+  - 低レイヤ開発・組み込み開発
   etc.
 
 - その他触れたいもの
