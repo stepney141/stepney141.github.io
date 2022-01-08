@@ -3,11 +3,11 @@
 Last-Modified: 2022-01-07
 
 <!-- [English](en.html) -->
-
+<!--
 ## About me
 
 stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と書くらしいです。
-
+-->
 ## 所属
 
 - 某大学経済学部経済学科 (B2)
