@@ -12,13 +12,14 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
 
 - 某大学経済学部経済学科 (B3)
   - [SEL(上智大学エレクトロニクス研究部)](https://selelab.com/)：2021年度副部長→2022年度部長
-- 某中高OB：鉄道研究部元部員・コンピュータ部元副部長
+- 某中高OB
+  - 鉄道研究部元部員・コンピュータ部元副部長
 
 ## 活動
 
 - 2017/07: [CombNaf](http://web.archive.org/web/20170829182306/https://atnd.org/events/87946)登壇：関数電卓についてのLT
 - 2017/12: [CombNaf 2](https://combnaf.connpass.com/event/64638/)登壇：関数電卓でLinuxを動かそうとして失敗した話のLT
-- 2022: [seccamp 2022](https://www.ipa.go.jp/jinzai/camp/2022/zenkoku2022_index.html)：全国大会受講生
+- 2022: [seccamp 2022](https://www.ipa.go.jp/jinzai/camp/2022/zenkoku2022_index.html)全国大会受講生
 
 ## Links
 
@@ -122,33 +123,22 @@ etc.
 
 #### スキルセット
 
-- 触った経験のあるコンピュータ言語(習熟度はバラつきあり)：
-  - UserRPL (書ける)
-  - HotSoupProcessor (少しなら書ける)
-  - C# (制御構文とクラスは知ってる)
-  - Java (同上)
-  - Lua (少しなら書ける)
-  - HTML/CSS (書ける)
-  - JavaScript (書ける)
-  - FORTRAN 77 (少しなら書ける)
-  - シェルスクリプト(Bash) (書ける)
-  - C (少しなら書ける)
-  - C++ (少しなら書ける)
-  - Python (少しなら書ける)
-  - SQL (少しなら書ける)
-  - Golang (少しなら書ける)
-  - Haskell (入門中)
-  - TypeScript (少しなら書ける)
-  - R (書ける)
-  - Elm (入門中)
+- 自然言語
+  - 日本語: 母語
+  - 英語: Intermediate
+  - ラテン語: Beginner ~ Pre-Intermediate
+
+- プログラミング言語
+  - 使える: JavaScript, TypeScript
+  - 趣味レベル: C/C++, Python, R, ShellScript(Bash), FORTRAN 77, Elm, UserRPL, HotSoupProcessor
+  - 入門経験あり: C#, Java, Go, Haskell, Lua
 
 #### プログラム関数電卓
 
-2022-01-04時点で、関数電卓を12台所有しています。  
-関数電卓の収集や評論というよりも、高機能な関数電卓を使ったプログラミングや、関数電卓のリバースエンジニアリングに興味があります。  
-プログラム関数電卓は本当に奥が深いです。機種によっては ARM, SuperH, Z80 などを搭載し、かなり色々と遊べます。  
+2022-07-09 現在、高機能電卓（プログラム関数電卓・ポケットコンピュータ類）を 13 台所有しています。  
+関数電卓の収集や評論というよりも、高機能な関数電卓を使ったプログラミングや、関数電卓のリバースエンジニアリングに興味があります。
 
-所有機種(購入順)：
+##### 所有機種(購入順)
 
 - SHARP EL-520F
 - HP 50g (2台)
@@ -161,8 +151,9 @@ etc.
 - TI-Nspire CX II CAS
 - HP Prime G2
 - TI-84 Plus Silver Edition
+- SHARP PC-1360
 
-今までプログラム関数電卓用にしたこと/書いたもの：
+##### 今までプログラム関数電卓用にしたこと/書いたもの
 
 - [stepney141/HP50g-works](https://github.com/stepney141/HP50g-works)
 - [CombNaf](https://atnd.org/events/87946)参加：関数電卓についてのLT
