@@ -1,6 +1,6 @@
 # stepney141 / Yumiya
 
-Last-Modified: 2022-10-04
+Last-Modified: 2022-10-05
 
 <!-- [English](en.html) -->
 <!--
@@ -10,7 +10,7 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
 -->
 ## 所属
 
-- 某大学経済学部経済学科 (B3)
+- 某大学経済学部経済学科 (Sph. Econ B3)
   - [SEL(上智大学エレクトロニクス研究部)](https://selelab.com/)：2021年度副部長→2022年度部長
 - 某中高OB (kgs150th)
   - 鉄道研究部元部員
@@ -18,9 +18,9 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
 
 ## 活動
 
-- Jul. 2017: [CombNaf](http://web.archive.org/web/20170829182306/https://atnd.org/events/87946)登壇：関数電卓についてのLT
-- Dec. 2017: [CombNaf 2](https://combnaf.connpass.com/event/64638/)登壇：関数電卓でLinuxを動かそうとして失敗した話のLT
-- Aug. 2022: [seccamp 2022](https://www.ipa.go.jp/jinzai/camp/2022/zenkoku2022_index.html)全国大会：受講生
+- Jul. 2017 - [CombNaf](http://web.archive.org/web/20170829182306/https://atnd.org/events/87946)登壇：関数電卓についてのLT
+- Dec. 2017 - [CombNaf2](https://combnaf.connpass.com/event/64638/)登壇：関数電卓でLinuxを動かそうとして失敗した話のLT
+- Aug. 2022 - [seccamp2022](https://www.ipa.go.jp/jinzai/camp/2022/zenkoku2022_index.html)全国大会：受講生
 
 ## Links
 
