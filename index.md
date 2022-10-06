@@ -24,7 +24,7 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
 
 ## Links
 
-- Twitter - [@stepney141](https://twitter.com/stepney141): リツイート大量につきRT非表示推奨
+- Twitter - [@stepney141](https://twitter.com/stepney141): リツイート大量につきリツイート非表示推奨（当アカウントのリツイートは賛否表明ではなく記録用です）
 - Mastodon - [stepney141@mstdn.maud.io](https://mstdn.maud.io/@stepney141)
 - GitHub - [stepney141](https://github.com/stepney141)
 - Blog - ["Project Fx 2.0"](https://stepney141.hatenablog.com/): 怪文書と備忘録を置いている場所
@@ -73,7 +73,9 @@ etc.
   - 情報科学
     - 数式処理
     - 音声分析合成・音響合成
-    - ゲーム情報学・General Game Playing
+    - ゲーム情報学
+      - General Game Playing
+      - コンピュータ将棋ソフト
     - 進化計算
     - 人工生命
     - 暗号技術
@@ -90,7 +92,7 @@ etc.
   - 気象数値予報
   - シミュレーション天文学
   etc.
-- 経済学
+- 数理経済学
   - (応用)ミクロ経済学・ゲーム理論
   - 計量経済学
 - 人文・社会学
@@ -100,7 +102,7 @@ etc.
     - サブカルチャー評論
   - 服飾フェティシズムとBDSMの思想・歴史・心理分析
   - 歴史学（特に文化史）
-    - 盤上遊戯史
+    - 盤上遊戯史・将棋史
     - 古代・中世の音楽史
   - 文化人類学
   - 民俗学
