@@ -1,0 +1,57 @@
+==================================================================
+https://keybase.io/stepney141
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://stepney141.github.io
+  * I am stepney141 (https://keybase.io/stepney141) on keybase.
+  * I have a public key ASCdONLcr1fOzcx_oGKxfKcWLoBifGP3RnvvEwHl2IfdHAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208de55dff48035fd3cdbf15daf0d214b42e8a457f6b01ce9338ba9997a6cd152c0a",
+      "host": "keybase.io",
+      "kid": "01209d38d2dcaf57cecdcc7fa062b17ca7162e80627c63f7467bef1301e5d887dd1c0a",
+      "uid": "d86e97d699ab43c02f18fb1e2659b519",
+      "username": "stepney141"
+    },
+    "merkle_root": {
+      "ctime": 1668784326,
+      "hash": "a5debad57cc9599757647e84ee66a90e7028c23a1162d5fd9fe67bc74ca9283de09f685ca0398262c1f9d86a0c3b6cd0f88c43f2c336a18315e2fb007a221032",
+      "hash_meta": "0c362a527ee76186b153346640787f565be2dbc7768b641be339cdebac2b9bda",
+      "seqno": 23576029
+    },
+    "service": {
+      "entropy": "oS1Ax6/EBR3+ew4sZhL1ZynJ",
+      "hostname": "stepney141.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.2"
+  },
+  "ctime": 1668784348,
+  "expire_in": 504576000,
+  "prev": "4442490878938ce07b41621575f4ad06480f30dc444b8498f994f149f8c6b2f0",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgnTjS3K9Xzs3Mf6BisXynFi6AYnxj90Z77xMB5diH3RwKp3BheWxvYWTESpcCDcQgREJJCHiTjOB7QWIVdfStBkgPMNxES4SY+ZTxSfjGsvDEIAvrmicfHmIGo0LXIF+scnCdcWWlkNdSs7KCkdT1/mPiAgHCo3NpZ8RALSTQUw8NzytQ6zE+/sHH1ZlhZyak4nXeuwnOWCSRugU3OQpaJ7NCMGlCgy5goS9V6PKsXUkIAGKzZWyKWQYrCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILt5zmcQYnOsrpKX0b9CNBRjfy7zssYA55dwG+kilhHEo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/stepney141
+
+==================================================================
+
