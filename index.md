@@ -3,11 +3,7 @@
 Last-Modified: 2022-11-19
 
 <!-- [English](en.html) -->
-<!--
-## About me
 
-stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と書くらしいです。
--->
 ## 所属
 
 - 某大学経済学部経済学科 (Sph. Econ): B3
@@ -28,10 +24,8 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
 - Twitter - [@stepney141](https://twitter.com/stepney141)
 - ActivityPub - [stepney141@mstdn.maud.io](https://mstdn.maud.io/@stepney141)
 - GitHub - [stepney141](https://github.com/stepney141)
-- Blog - ["Project Fx 2.0"](https://stepney141.hatenablog.com/)
+- HatenaBlog - ["Project Fx 2.0"](https://stepney141.hatenablog.com/)
 - Bookmeter - [ゆみや](https://bookmeter.com/users/1003258)
-- E-Mail -  stepney141andi.c.i (at) gmail.com
-- 5chトリップ - ◆sOHUy6jdA4II or ◆dR229TZisIOd
 - その他やりたいことのメモなど: [#stepney141のメモ](https://twilog.org/stepney141/search?word=%23stepney141%E3%81%AE%E3%83%A1%E3%83%A2&ao=a)
 <!-- - [Amazon欲しいものリスト](https://www.amazon.jp/hz/wishlist/ls/9DMJ9MP1LX82?ref_=wl_share:embed:cite)：5000兆円欲しい -->
 
@@ -46,6 +40,12 @@ stepneyはステップニーと発音します。IPA表記では /ˈstɛpni/と�
   - そこそこ使える: JavaScript/TypeScript, UserRPL
   - 趣味で使ったことがある: C/C++, Python, Lua, R, Hot Soup Processor, ShellScript (Bash), FORTRAN 77, Elm
   - 入門経験あり: C#, Java, Go, Haskell, Julia
+
+## Aliases
+
+- E-Mail - stepney141andi.c.i (at) gmail.com
+- Discord - stepney141#8609
+- 5chトリップ - ◆sOHUy6jdA4II or ◆dR229TZisIOd
 
 ## 好きなもの
 
