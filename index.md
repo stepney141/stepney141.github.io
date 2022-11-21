@@ -18,6 +18,18 @@ Last-Modified: 2022-11-19
 - Dec. 2017 - [CombNaf2](https://combnaf.connpass.com/event/64638/)登壇: 関数電卓でLinuxを動かそうとして失敗した話のLT
 - Aug. 2022 - [セキュリティ・キャンプ全国大会2022](https://www.ipa.go.jp/jinzai/camp/2022/zenkoku2022_index.html)受講生: X3コース修了
 
+## スキルセット
+
+- 自然言語
+  - 日本語: 母語
+  - 英語: Intermediate (CEFR B1~B2)
+  - ラテン語: Beginner ~ Pre-Intermediate
+
+- プログラミング言語
+  - それなりに使える: JavaScript/TypeScript, UserRPL
+  - 趣味で使ったことがある: C/C++, Python, Lua, R, Hot Soup Processor, ShellScript (Bash), FORTRAN 77, Elm
+  - 入門経験あり: C#, Java, Go, Haskell, Julia
+
 ## Links
 
 - Keybase - [stepney141 (S.I.)](https://keybase.io/stepney141)
@@ -29,19 +41,7 @@ Last-Modified: 2022-11-19
 - その他やりたいことのメモなど: [#stepney141のメモ](https://twilog.org/stepney141/search?word=%23stepney141%E3%81%AE%E3%83%A1%E3%83%A2&ao=a)
 <!-- - [Amazon欲しいものリスト](https://www.amazon.jp/hz/wishlist/ls/9DMJ9MP1LX82?ref_=wl_share:embed:cite)：5000兆円欲しい -->
 
-## スキルセット
-
-- 自然言語
-  - 日本語: 母語
-  - 英語: Intermediate
-  - ラテン語: Beginner ~ Pre-Intermediate
-
-- プログラミング言語
-  - そこそこ使える: JavaScript/TypeScript, UserRPL
-  - 趣味で使ったことがある: C/C++, Python, Lua, R, Hot Soup Processor, ShellScript (Bash), FORTRAN 77, Elm
-  - 入門経験あり: C#, Java, Go, Haskell, Julia
-
-## Aliases
+### Aliases
 
 - E-Mail - stepney141andi.c.i (at) gmail.com
 - Discord - stepney141#8609
