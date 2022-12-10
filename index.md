@@ -1,6 +1,6 @@
 # stepney141 / Yumiya
 
-Last-Modified: 2022-１２−11
+Last-Modified: 2022-12-11
 
 <!-- [English](en.html) -->
 
@@ -35,7 +35,8 @@ Last-Modified: 2022-１２−11
 - プログラミング言語
   - それなりに使える: JavaScript/TypeScript, UserRPL
   - 趣味で使ったことがある: C/C++, Python, Lua, R, Hot Soup Processor, ShellScript (Bash), FORTRAN 77, Elm
-  - 入門経験あり: C#, Java, Go, Haskell, Julia
+  - 入門経験あり: C#, Java, Go, Haskell, Julia, Rust
+  - これから触りたい: Scala, Common Lisp, Egison, Nim, PureScript
 
 ## Links
 
@@ -87,8 +88,7 @@ etc.
 
 ### 興味のあるもの
 
-全体として、シミュレーテッド＝リアリティを計算機の中で実現する分野に興味を持ちやすい傾向がある
-※これらはあくまで「興味があり、触ってみたことがある」分野で、全部に詳しいわけではありません
+全体として、シミュレーテッド＝リアリティを計算機の中で実現する分野に興味を持ちやすい傾向があります。
 
 - コンピュータ
   - 情報科学
@@ -108,7 +108,6 @@ etc.
     - 低レイヤ・組み込み開発
     - プログラム関数電卓のプログラミング・リバースエンジニアリング
   - 競プロ（AtCoder灰色）
-  - 触りたいコンピュータ言語：Rust, Scala, Lisp, Egison, Julia, Nim, PureScript
 - 数理科学・計算科学
   - 数値シミュレーション
     - 気象数値予報
