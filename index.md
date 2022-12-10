@@ -1,6 +1,6 @@
 # stepney141 / Yumiya
 
-Last-Modified: 2022-11-19
+Last-Modified: 2022-１２−11
 
 <!-- [English](en.html) -->
 
@@ -17,6 +17,13 @@ Last-Modified: 2022-11-19
 - Jul. 2017 - [CombNaf](http://web.archive.org/web/20170829182306/https://atnd.org/events/87946)登壇: 関数電卓についてのLT
 - Dec. 2017 - [CombNaf2](https://combnaf.connpass.com/event/64638/)登壇: 関数電卓でLinuxを動かそうとして失敗した話のLT
 - Aug. 2022 - [セキュリティ・キャンプ全国大会2022](https://www.ipa.go.jp/jinzai/camp/2022/zenkoku2022_index.html)受講生: X3コース修了
+
+### 作ったものなど
+
+- [関数電卓は『リチャードソンの夢』を見るか？ 〜関数電卓による気象数値予報の試み〜](https://stepney141.hatenablog.com/entry/2020/05/27/071742)
+- [関数電卓プログラミングの世界](https://stepney141.hatenablog.com/entry/2020/12/01/235856)
+- [関数電卓プログラミングの世界：闇の魔術編](https://stepney141.hatenablog.com/entry/2020/12/24/235437)
+- [Dagaz Project](https://github.com/GlukKazan/Dagaz)：JavaScript製ボードゲームエンジン（開発メンバー）
 
 ## スキルセット
 
@@ -78,10 +85,10 @@ etc.
 - プリキュア  
 etc.
 
-### 守備範囲
+### 興味のあるもの
 
-極めて雑食だが、好きなアプローチは数理的理論と実社会分析に偏り気味  
 全体として、シミュレーテッド＝リアリティを計算機の中で実現する分野に興味を持ちやすい傾向がある
+※これらはあくまで「興味があり、触ってみたことがある」分野で、全部に詳しいわけではありません
 
 - コンピュータ
   - 情報科学
@@ -103,9 +110,13 @@ etc.
   - 競プロ（AtCoder灰色）
   - 触りたいコンピュータ言語：Rust, Scala, Lisp, Egison, Julia, Nim, PureScript
 - 数理科学・計算科学
-  - 気象数値予報
-  - シミュレーション天文学
-  etc.
+  - 数値シミュレーション
+    - 気象数値予報
+    - シミュレーション天文学
+- ハード系工作
+  - 電子工作
+  - 機械工学
+  - テスラコイル自作
 - 数理経済学
   - (応用)ミクロ経済学・ゲーム理論
   - 計量経済学
@@ -129,12 +140,12 @@ etc.
     - 幻想文学
     - 文芸批評
 
-#### プログラム関数電卓
+### プログラム関数電卓
 
 2022-07-09 現在、高機能電卓（プログラム関数電卓・ポケットコンピュータ類）を 13 台所有しています。  
 関数電卓の収集や評論というよりも、高機能な関数電卓を使ったプログラミングや、関数電卓のリバースエンジニアリングに興味があります。
 
-##### 所有機種(入手順)
+#### 所有機種(入手順)
 
 - SHARP EL-520F
 - HP 50g (2台)
@@ -148,13 +159,3 @@ etc.
 - HP Prime G2
 - TI-84 Plus Silver Edition
 - SHARP PC-1360
-
-##### 今までプログラム関数電卓用にしたこと/書いたもの
-
-- [stepney141/HP50g-works](https://github.com/stepney141/HP50g-works)
-- [CombNaf](https://atnd.org/events/87946)参加：関数電卓についてのLT
-- [CombNaf 2](https://combnaf.connpass.com/event/64638/)参加：関数電卓でLinuxを動かそうとして失敗した話のLT
-- [関数電卓は『リチャードソンの夢』を見るか？ 〜関数電卓による気象数値予報の試み〜](https://stepney141.hatenablog.com/entry/2020/05/27/071742)
-- [関数電卓プログラミングの世界](https://stepney141.hatenablog.com/entry/2020/12/01/235856)
-- [関数電卓プログラミングの世界：闇の魔術編](https://stepney141.hatenablog.com/entry/2020/12/24/235437)
-- [stepney141/ndless-docker](https://github.com/stepney141/ndless-docker)
