@@ -38,6 +38,10 @@ Last-Modified: 2022-12-20
   - 趣味開発で多少使った経験がある: C/C++, Python, Lua, FORTRAN 77, Elm, R, Hot Soup Processor
   - 入門的知識はある: C#, Java, Go, Haskell, Julia, Rust
 
+- 資格等
+  - 実用英語技能検定2級 (2017年7月)
+  - 応用情報技術者 (2022年10月)
+
 ## Links
 
 - Keybase - [stepney141 (S.I.)](https://keybase.io/stepney141)
