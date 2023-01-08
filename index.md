@@ -1,71 +1,12 @@
 # stepney141 / Yumiya
 
-Last-Modified: 2023-01-08
-
 <!-- [English](en.html) -->
 
-## 活動
+B3, Department of Economics, Sophia University
 
-- 2017年7月：[CombNaf](http://web.archive.org/web/20170829182306/https://atnd.org/events/87946)登壇 - 関数電卓についてのLT
-- 2017年12月：[CombNaf2](https://combnaf.connpass.com/event/64638/)登壇 - 関数電卓でLinuxを動かそうとして失敗した話のLT
-- 2022年8月：[IPA セキュリティ・キャンプ全国大会2022](https://www.ipa.go.jp/jinzai/camp/2022/zenkoku2022_index.html)受講生 - X3コース修了
+## 興味分野
 
-### 作ったものなど
-
-- [関数電卓は『リチャードソンの夢』を見るか？ 〜関数電卓による気象数値予報の試み〜](https://stepney141.hatenablog.com/entry/2020/05/27/071742)
-- [関数電卓プログラミングの世界](https://stepney141.hatenablog.com/entry/2020/12/01/235856)
-- [関数電卓プログラミングの世界：闇の魔術編](https://stepney141.hatenablog.com/entry/2020/12/24/235437)
-- [Dagaz Project](https://github.com/GlukKazan/Dagaz)：General Game Playingソフトウェア・ボードゲームエンジン (開発メンバー)
-
-## 経歴
-
-- 2013年4月：███中学校 (kgs 150th) 入学
-- 2016年4月：同高等学校 入学
-- 2020年4月：██大学経済学部経済学科 (Sph. Econ) 入学
-- 2020年6月〜2022年8月：ClipLine株式会社 開発部契約社員 (長期インターン)
-
-### 所属団体
-
-- ███中高鉄道研究部：2013年度〜2017年度在籍
-- [███中高コンピュータ部](https://kogyokusha-gcc.github.io/)：2015年度〜2018年度在籍 (2017年度副部長)
-- [SEL(上智大学エレクトロニクス研究部)](https://selelab.com/)：2020年度より在籍中 (2021年度副部長→2022年度部長)
-
-## スキルセット
-
-- 自然言語
-  - 日本語: 母語
-  - 英語: Intermediate (CEFR B1~B2)
-  - ラテン語: Beginner ~ Pre-Intermediate
-
-- プログラミング言語
-  - 実務経験がある: JavaScript (Node.jsによるテスト自動化業務等に従事)
-  - 実務以外で深く使った経験がある: TypeScript, UserRPL
-  - 実務以外で多少使った経験がある: C/C++, Python, Lua, FORTRAN 77, Elm, R, Hot Soup Processor
-  - 入門的知識はある: C#, Java, Go, Haskell, Julia, Rust
-
-- 資格等
-  - 実用英語技能検定2級 (2017年7月)
-  - 応用情報技術者 (2022年秋期)
-
-## Links / Aliases
-
-- Twitter - [@stepney141](https://twitter.com/stepney141)
-- ActivityPub - [stepney141@mstdn.maud.io](https://mstdn.maud.io/@stepney141)
-- GitHub - [stepney141](https://github.com/stepney141)
-- HatenaBlog - ["Project Fx 2.0"](https://stepney141.hatenablog.com/)
-- Bookmeter - [ゆみや](https://bookmeter.com/users/1003258)
-- Keybase - [stepney141 (S.I.)](https://keybase.io/stepney141)
-- その他やりたいことのメモなど - [#stepney141のメモ](https://twilog.org/stepney141/search?word=%23stepney141%E3%81%AE%E3%83%A1%E3%83%A2&ao=a)
-<!-- - [Amazon欲しいものリスト](https://www.amazon.jp/hz/wishlist/ls/9DMJ9MP1LX82?ref_=wl_share:embed:cite)：5000兆円欲しい -->
-- E-Mail - stepney141andi.c.i (at) gmail.com
-- Discord - stepney141#8609
-- 5chトリップ - ◆sOHUy6jdA4II or ◆dR229TZisIOd
-
-## 好きなもの
-
-### 興味分野
-
-全体として、シミュレーテッド＝リアリティを計算機の中で実現する分野に興味を持ちやすい傾向があります。
+全体として、「計算機の中でのシミュレーテッド＝リアリティの実現」「人類の文化の歴史」「現代社会での異文化衝突」が絡む分野に興味を持ちやすい傾向があります。
 
 長いのでジャンル別の折りたたみ要素にしています。
 
@@ -85,7 +26,6 @@ Last-Modified: 2023-01-08
   - Web技術
   - 低レイヤ・組み込み開発
   - グラフ関数電卓のプログラミングとリバースエンジニアリング
-- 競技プログラミング (AtCoderアルゴ灰色)
 - かわいいい女の子を創造するための技術
   - 3DCGプログラミング
   - VR/AR
@@ -143,41 +83,14 @@ Last-Modified: 2023-01-08
 </div>
 </details>
 
-### 趣味
-
-- 読書
-- 守備範囲の知識を入れる
-- 計算機で遊ぶ (主にプログラミング)
-- ネットサーフィン (Twitter含む)
-- [2次元イラスト](http://www.paradisearmy.com/doujin/pasok_nijigen.htm)の収集
-- 酒 (芋焼酎を除く)
-- クラシック音楽 (特にバロック音楽)
-- 美術 (ウィリアム・ターナーなどが好き)
-- 鉄道 (主に海外の小型蒸気機関車・貨車)
-- 廃墟・Urbex
-- ラブクラフト作品の翻訳
-  - [GitHubリポジトリ](https://github.com/stepney141/translation-works)：誤り発見された場合はご報告頂けると助かります
-- 北極ラーメンの喫食
-- アブストラクトゲーム (特に古将棋・変則将棋・フェアリーチェス)
-- ガジェット収集  
-etc.
-
-### 好きなコンテンツ
-
-- 禁書（創約6巻まで履修済み）
-- 型月
-- エヴァ
-- ジョジョ
-- SCP Foundation
-- プリキュア  
-etc.
-
 ### プログラム関数電卓
 
 2022-07-09 現在、高機能電卓（プログラム関数電卓・ポケットコンピュータ類）を 13 台所有しています。  
 関数電卓の収集や評論というよりも、高機能な関数電卓を使ったプログラミングや、関数電卓のリバースエンジニアリングに興味があります。
 
-#### 所有機種(入手順)
+<details>
+<summary>所有機種(入手順)</summary>
+<div>
 
 - SHARP EL-520F
 - HP 50g (2台)
@@ -191,3 +104,99 @@ etc.
 - HP Prime G2
 - TI-84 Plus Silver Edition
 - SHARP PC-1360
+
+</div>
+</details>
+
+## 活動
+
+- 2017年7月：[CombNaf](http://web.archive.org/web/20170829182306/https://atnd.org/events/87946)登壇 - 関数電卓プログラミングについてのLT
+- 2017年12月：[CombNaf2](https://combnaf.connpass.com/event/64638/)登壇 - 関数電卓でLinuxを動かそうとして失敗した話のLT
+- 2022年8月：[独立行政法人情報処理推進機構 セキュリティ・キャンプ全国大会2022](https://www.ipa.go.jp/jinzai/camp/2022/zenkoku2022_index.html)受講生 - X3コース修了
+
+### 作ったもの・書いたもの
+
+※一部
+
+- [関数電卓は『リチャードソンの夢』を見るか？ 〜関数電卓による気象数値予報の試み〜](https://stepney141.hatenablog.com/entry/2020/05/27/071742)
+- [関数電卓プログラミングの世界](https://stepney141.hatenablog.com/entry/2020/12/01/235856)
+- [関数電卓プログラミングの世界：闇の魔術編](https://stepney141.hatenablog.com/entry/2020/12/24/235437)
+- [Dagaz Project](https://github.com/GlukKazan/Dagaz)：General Game Playingソフトウェア・ボードゲームエンジン (開発メンバー)
+
+### 経歴
+
+- 2013年4月：███中学校 (kgs 150th) 入学
+- 2016年4月：同高等学校 入学
+- 2020年4月：上智大学経済学部経済学科 (Sph. Econ) 入学
+- 2020年6月〜2022年8月：ClipLine株式会社 開発部契約社員 (長期インターン)
+
+### 所属団体
+
+- ███中高鉄道研究部 (現OB)：2013年度〜2017年度在籍
+- [███中高コンピュータ部](https://kogyokusha-gcc.github.io/) (現OB)：2015年度〜2018年度在籍 (2017年度副部長)
+- [SEL(上智大学エレクトロニクス研究部)](https://selelab.com/)：2020年度より在籍中 (2021年度副部長→2022年度部長)
+
+## スキルセット
+
+- 自然言語
+  - 日本語: 母語
+  - 英語: Intermediate (CEFR B1~B2)
+  - ラテン語: Beginner ~ Pre-Intermediate
+
+- プログラミング言語
+  - 実務経験がある: JavaScript (Node.jsによるテスト自動化業務等に従事)
+  - 実務以外で深く使った経験がある: TypeScript, UserRPL
+  - 実務以外で多少使った経験がある: C/C++, Python, Lua, FORTRAN 77, Elm, R, Hot Soup Processor
+  - 入門的知識はある: C#, Java, Go, Haskell, Julia, Rust
+
+- 資格等
+  - 実用英語技能検定2級 (2017年7月)
+  - 応用情報技術者 (2022年秋期)
+
+## Links / Aliases
+
+- Twitter - [@stepney141](https://twitter.com/stepney141)
+- ActivityPub - [stepney141@mstdn.maud.io](https://mstdn.maud.io/@stepney141)
+- GitHub - [stepney141](https://github.com/stepney141)
+- HatenaBlog - ["Project Fx 2.0"](https://stepney141.hatenablog.com/)
+- Bookmeter - [ゆみや](https://bookmeter.com/users/1003258)
+- Zenn - [ゆみや](https://zenn.dev/stepney141)
+- Keybase - [S.I. (aka Yumiya)](https://keybase.io/stepney141)
+- その他やりたいことのメモなど - [#stepney141のメモ](https://twilog.org/stepney141/search?word=%23stepney141%E3%81%AE%E3%83%A1%E3%83%A2&ao=a)
+<!-- - [Amazon欲しいものリスト](https://www.amazon.jp/hz/wishlist/ls/9DMJ9MP1LX82?ref_=wl_share:embed:cite)：5000兆円欲しい -->
+- E-Mail - stepney141andi.c.i (at) gmail.com
+- Discord - stepney141#8609
+- 5chトリップ - ◆sOHUy6jdA4II or ◆dR229TZisIOd
+
+## その他の趣味
+
+- 書店巡り
+- 興味分野についての資料を読む
+- 計算機でプログラミングをして遊ぶ
+- ネットサーフィン
+- [2次元イラスト](http://www.paradisearmy.com/doujin/pasok_nijigen.htm)の収集
+- 飲酒 (芋焼酎を除く)
+- クラシック音楽 (特にバロック音楽)
+- 美術 (ウィリアム・ターナーなどが好き)
+- 海外鉄道 (主に小型蒸気機関車・貨車が好き)
+- 廃墟・都市探検
+- ラブクラフト作品の翻訳
+  - [GitHubリポジトリ](https://github.com/stepney141/translation-works)：誤りを発見された場合はご報告頂けると助かります
+- [北極ラーメン](https://ja.wikipedia.org/wiki/%E8%92%99%E5%8F%A4%E3%82%BF%E3%83%B3%E3%83%A1%E3%83%B3%E4%B8%AD%E6%9C%AC)の喫食
+- アブストラクトボードゲーム (特に古将棋・変則将棋・フェアリーチェス)
+- ガジェット収集  
+etc.
+
+### 好きなコンテンツ
+
+- 禁書（創約6巻まで履修済み）
+- 型月
+- エヴァ
+- ジョジョ
+- SCP Foundation
+- プリキュア  
+etc.
+
+----
+
+Last-Modified: 2023-01-09
