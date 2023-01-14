@@ -110,10 +110,6 @@ B3, Department of Economics, Sophia University
 
 ## 活動
 
-- 2017年7月：[CombNaf](http://web.archive.org/web/20170829182306/https://atnd.org/events/87946)登壇 - 関数電卓プログラミングについてのLT
-- 2017年12月：[CombNaf2](https://combnaf.connpass.com/event/64638/)登壇 - 関数電卓でLinuxを動かそうとして失敗した話のLT
-- 2022年8月：[独立行政法人情報処理推進機構 セキュリティ・キャンプ全国大会2022](https://www.ipa.go.jp/jinzai/camp/2022/zenkoku2022_index.html)受講生 - X3コース修了
-
 ### 作ったもの・書いたもの
 
 ※一部
@@ -127,8 +123,11 @@ B3, Department of Economics, Sophia University
 
 - 2013年4月：███中学校 入学
 - 2016年4月：同高等学校 入学
+- 2017年7月：[CombNaf](http://web.archive.org/web/20170829182306/https://atnd.org/events/87946)登壇 - 関数電卓プログラミングについてのLT
+- 2017年12月：[CombNaf2](https://combnaf.connpass.com/event/64638/)登壇 - 関数電卓でLinuxを動かそうとして失敗した話のLT
 - 2020年4月：上智大学経済学部経済学科 入学
 - 2020年6月〜2022年8月：ClipLine株式会社 開発部契約社員 (長期インターン)
+- 2022年8月：[独立行政法人情報処理推進機構 セキュリティ・キャンプ全国大会2022](https://www.ipa.go.jp/jinzai/camp/2022/zenkoku2022_index.html)受講生 - X3コース修了
 
 ### 所属団体
 
@@ -199,4 +198,4 @@ etc.
 
 ----
 
-Last-Modified: 2023-01-09
+Last-Modified: 2023-01-14
