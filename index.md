@@ -155,12 +155,13 @@ B3, Department of Economics, Sophia University
 ## Links / Aliases
 
 - Twitter - [@stepney141](https://twitter.com/stepney141)
-- ActivityPub - [stepney141@mstdn.maud.io](https://mstdn.maud.io/@stepney141)
+- Fediverse - [stepney141@mstdn.maud.io](https://mstdn.maud.io/@stepney141)
 - GitHub - [stepney141](https://github.com/stepney141)
 - HatenaBlog - ["Project Fx 2.0"](https://stepney141.hatenablog.com/)
 - Bookmeter - [ゆみや](https://bookmeter.com/users/1003258)
 - Zenn - [ゆみや](https://zenn.dev/stepney141)
 - Keybase - [S.I. (aka Yumiya)](https://keybase.io/stepney141)
+- Wikipedia - [利用者:Stepney-I.C.I.](https://ja.wikipedia.org/wiki/%E5%88%A9%E7%94%A8%E8%80%85:Stepney-I.C.I.)
 - その他やりたいことのメモなど - [#stepney141のメモ](https://twilog.org/stepney141/search?word=%23stepney141%E3%81%AE%E3%83%A1%E3%83%A2&ao=a)
 <!-- - [Amazon欲しいものリスト](https://www.amazon.jp/hz/wishlist/ls/9DMJ9MP1LX82?ref_=wl_share:embed:cite)：5000兆円欲しい -->
 - E-Mail - stepney141andi.c.i (at) gmail.com
@@ -198,4 +199,4 @@ etc.
 
 ----
 
-Last-Modified: 2023-01-14
+Last-Modified: 2023-02-08
