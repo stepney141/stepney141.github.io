@@ -2,7 +2,7 @@
 
 <!-- [English](en.html) -->
 
-B3, Department of Economics, Sophia University
+B4, Department of Economics, Sophia University
 
 ## 興味分野
 
@@ -199,4 +199,4 @@ etc.
 
 ----
 
-Last-Modified: 2023-02-08
+Last-Modified: 2023-04-01
