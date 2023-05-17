@@ -139,7 +139,7 @@ B4, Department of Economics, Sophia University
 
 - 自然言語
   - 日本語: 母語
-  - 英語: Intermediate (CEFR B1~B2)
+  - 英語: Intermediate (CEFR B1~B2相当)
   - ラテン語: Beginner ~ Pre-Intermediate
 
 - プログラミング言語
@@ -151,6 +151,8 @@ B4, Department of Economics, Sophia University
 - 資格等
   - 実用英語技能検定2級 (2017年7月)
   - 応用情報技術者 (2022年秋期)
+  - 普通自動車第一種免許 (AT限定、2023年3月)
+  - TOEIC L&R 860点 (2023年4月)
 
 ## Links / Aliases
 
