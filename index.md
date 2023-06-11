@@ -139,8 +139,8 @@ B4, Department of Economics, Sophia University
 
 - 自然言語
   - 日本語: 母語
-  - 英語: Intermediate (CEFR B1~B2相当)
-  - ラテン語: Beginner ~ Pre-Intermediate
+  - 英語: Intermediate (CEFR B2程度)
+  - ラテン語: 2年間の履修経験あり（原書購読の経験はなし）
 
 - プログラミング言語
   - 実務経験がある: JavaScript (Node.jsによるテスト自動化業務等に従事)
@@ -150,7 +150,7 @@ B4, Department of Economics, Sophia University
 
 - 資格等
   - 実用英語技能検定2級 (2017年7月)
-  - 応用情報技術者 (2022年秋期)
+  - 応用情報技術者 (2022年10月)
   - 普通自動車第一種免許 (AT限定、2023年3月)
   - TOEIC L&R 860点 (2023年4月)
 
@@ -201,4 +201,4 @@ etc.
 
 ----
 
-Last-Modified: 2023-04-01
+Last-Modified: 2023-06-11
