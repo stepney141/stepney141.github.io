@@ -64,7 +64,7 @@ B4, Department of Economics, Sophia University
   - メディア論
   - サブカルチャー評論
 - 服飾フェティシズムとBDSMの思想・歴史・心理分析
-- 歴史学（特に文化史）
+- 歴史学 (特に文化史)
   - 盤上遊戯史・将棋史
   - 古代・中世の音楽史
 - 文化人類学
@@ -85,7 +85,7 @@ B4, Department of Economics, Sophia University
 
 ### プログラム関数電卓
 
-2022-07-09 現在、高機能電卓（プログラム関数電卓・ポケットコンピュータ類）を 13 台所有しています。  
+2022-07-09 現在、高機能電卓(プログラム関数電卓・ポケットコンピュータ類)を 13 台所有しています。  
 関数電卓の収集や評論というよりも、高機能な関数電卓を使ったプログラミングや、関数電卓のリバースエンジニアリングに興味があります。
 
 <details>
@@ -139,8 +139,8 @@ B4, Department of Economics, Sophia University
 
 - 自然言語
   - 日本語: 母語
-  - 英語: Intermediate (CEFR B2程度)
-  - ラテン語: 2年間の履修経験あり（原書購読の経験はなし）
+  - 英語: CEFR B2程度
+  - ラテン語: 2年間の学習経験あり (原書購読の経験はなし)
 
 - プログラミング言語
   - 実務経験がある: JavaScript (Node.jsによるテスト自動化業務等に従事)
@@ -148,11 +148,12 @@ B4, Department of Economics, Sophia University
   - 実務以外で多少使った経験がある: C/C++, Python, Lua, FORTRAN 77, Elm, R, Hot Soup Processor
   - 入門的知識はある: C#, Java, Go, Haskell, Julia, Rust
 
-- 資格等
+- 資格・検定等（取得年月日順）
   - 実用英語技能検定2級 (2017年7月)
   - 応用情報技術者 (2022年10月)
   - 普通自動車第一種免許 (AT限定、2023年3月)
   - TOEIC L&R 860点 (2023年4月)
+  - TOEFL iBT MyBest Scores 73 (2023年6月)
 
 ## Links / Aliases
 
@@ -191,7 +192,7 @@ etc.
 
 ### 好きなコンテンツ
 
-- 禁書（創約6巻まで履修済み）
+- 禁書 (創約6巻まで履修済み)
 - 型月
 - エヴァ
 - ジョジョ
@@ -201,4 +202,4 @@ etc.
 
 ----
 
-Last-Modified: 2023-06-11
+Last-Modified: 2023-06-26
