@@ -2,7 +2,7 @@
 
 <!-- [English](en.html) -->
 
-B4, Department of Economics, Sophia University
+計算機を中心とした色々なものが好きな学生です。
 
 ## 興味分野
 
@@ -69,7 +69,7 @@ B4, Department of Economics, Sophia University
   - 古代・中世の音楽史
 - 文化人類学
 - 民俗学
-- 宗教学
+- 宗教学・オカルティズム
   - 西洋神秘主義思想の歴史
   - 近代西洋儀式魔術
 - 語学
@@ -128,6 +128,7 @@ B4, Department of Economics, Sophia University
 - 2020年4月：上智大学経済学部経済学科 入学
 - 2020年6月〜2022年8月：ClipLine株式会社 開発部契約社員 (長期インターン)
 - 2022年8月：[独立行政法人情報処理推進機構 セキュリティ・キャンプ全国大会2022](https://www.ipa.go.jp/jinzai/camp/2022/zenkoku2022_index.html)受講生 - X3コース修了
+- 2024年4月(予定)：東京大学大学院総合文化研究科広域科学専攻 入学見込
 
 ### 所属団体
 
@@ -202,4 +203,4 @@ etc.
 
 ----
 
-Last-Modified: 2023-06-26
+Last-Modified: 2023-11-16
