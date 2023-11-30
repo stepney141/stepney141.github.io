@@ -1,17 +1,35 @@
-/* 以下、GitHubのMarkdwonのCSS */
+/* 以下、GitHubのMarkdwonのCSSをベースに改変 */
 /* 参考：https://qiita.com/__mick/items/c80fab6c185a41882880 */
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+:root {
+  --black: #0f1d5b;
+  --white: #f1f0ff;
+  --dark-blue: #05328d;
+  --blue-black: #1a44ba;
+  --gray: #646f7a;
+
+  --text-headline-color: var(--dark-blue);
+  --text-accent-color: var(--dark-blue);
+  background-color: var(--white);
+}
 
 body {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
-  line-height: 1.5;
-  color: #24292e;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
-    sans-serif, Apple Color Emoji, Segoe UI Emoji;
-  font-size: 16px;
+  
   line-height: 1.5;
   word-wrap: break-word;
   box-sizing: border-box;
+  display: flex;
+  
+  color: var(--black);
+  font-size: 1rem;
+  font-family: "Noto Sans JP", -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
+  font-weight: 400;
+  font-feature-settings: "palt" 1;
+  letter-spacing: .03em;
 }
 
 body a {
@@ -33,7 +51,7 @@ body img {
 }
 
 body a {
-  color: #0366d6;
+  color: #025efd;
   text-decoration: none;
 }
 
@@ -47,40 +65,35 @@ body h3,
 body h4,
 body h5,
 body h6 {
-  margin-top: 24px;
-  margin-bottom: 16px;
-  font-weight: 600;
   line-height: 1.25;
 }
 
 body h1 {
-  font-size: 2em;
-  margin: 0.67em 0;
-  border-bottom: 1px solid rgb(32, 80, 182);
-}
-
-body h1,
-body h2 {
-  padding-bottom: 0.3em;
+  color: var(--blue-black);
+  font-size: 200%;
+  padding-bottom: 0;
   font-weight: 600;
+  padding-bottom: 0.2em;
+  /* border-bottom: 1px solid rgb(32, 80, 182); */
+  border-bottom: dotted 3px var(--dark-blue);
 }
 
 body h2 {
-  font-size: 24px;
+  color: var(--dark-blue);
+  font-size: 125%;
   padding: 0.25em 0 0.5em 0.75em;
-  border-left: 4px solid rgb(32, 80, 182);
-  border-bottom: 1px solid rgb(32, 80, 182);
+  /* border-left: 4px solid rgb(32, 80, 182); */
+  /* border-bottom: 1px solid rgb(32, 80, 182); */
+  border-left: 3px solid var(--text-headline-color);
+  border-bottom: solid 1px var(--text-headline-color);
 }
 
 body h3 {
-  font-size: 20px;
-  padding: 0.25em 0 0.5em 0.75em;
-  border-left: 4px solid rgb(22, 61, 143);
-}
-
-body h3,
-body h4 {
-  font-weight: 600;
+  color: var(--dark-blue);
+  font-size: 120%;
+  padding: 0.25em 0 0.5em 0;
+  /* border-left: 4px solid rgb(22, 61, 143); */
+  border-bottom: dashed 1px var(--blue-black);
 }
 
 body h4 {
