@@ -10,7 +10,7 @@
   --blue-black: #1a44ba;
   --sky-blue: #849efe;
   --pale-blue: #f5f6ff;
-  --gray: rgb(100, 101, 122);
+  --gray-blue: rgb(105, 117, 139);
 
   --text-headline-color: var(--dark-blue);
   --text-accent-color: var(--dark-blue);
@@ -20,18 +20,23 @@
 body {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
-  
-  line-height: 1.5;
-  word-wrap: break-word;
-  box-sizing: border-box;
+
   display: flex;
-  
+  flex-wrap: wrap;
+  box-sizing: border-box;
+  margin: 0 auto;
+
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+
   color: var(--black);
   font-size: 1rem;
   font-family: "Noto Sans JP", -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
-  font-weight: 400;
+  font-weight: 500;
   font-feature-settings: "palt" 1;
+  
   letter-spacing: .03em;
+  line-height: 1.5;
 }
 
 body a {
@@ -74,18 +79,18 @@ body h1 {
   color: var(--blue-black);
   font-size: 200%;
   font-weight: 600;
-  padding-bottom: 0.2em;
-  /* border-bottom: 1px solid rgb(32, 80, 182); */
+  text-align: center;
+  padding-top: 0.4em;
+  padding-bottom: 0.5em;
+  border-top: dotted 3px var(--dark-blue);
   border-bottom: dotted 3px var(--dark-blue);
 }
 
 body h2 {
   color: var(--dark-blue);
   font-size: 125%;
-  margin-top: 0.5em;
-  padding: 0.25em 0 0.5em 0.75em;
-  border-left: 3px solid var(--text-headline-color);
-  border-bottom: solid 1px var(--text-headline-color);
+  padding: 0.25em 0 0.25em 0;
+  border-bottom: 3px double var(--text-headline-color);
 }
 
 body h3 {
@@ -113,8 +118,11 @@ body h6 {
   font-size: 12px;
 }
 
+details {
+  margin-right: 1em;
+}
 summary {
-  padding: 0.4em 0.3em;
+  padding: 0.4em 1em;
   margin: 0.3em 0;
   border: solid 1px var(--sky-blue);
   border-radius: 7px;
@@ -124,13 +132,12 @@ summary {
 summary:hover {
   font-weight: bold;
 }
-details[open] {
-  animation: fadeIn 0.5s ease;
-}
 details[open] summary {
-  color: var(--gray);
+  color: var(--gray-blue);
+  background-color: var(--white);
 }
 details[open] > div {
+  animation: fadeIn 0.5s ease;
   padding-top: 1em;
   border-radius: 7px;
   border: solid 1px var(--sky-blue);
@@ -183,4 +190,46 @@ body img {
   max-width: 100%;
   box-sizing: initial;
   background-color: #fff;
+  border: solid 3px var(--black);
+}
+
+.split-v {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: stretch;
+  flex-direction: row;
+}
+.split-v > * {
+  margin-right: 1rem;
+}
+.split-v > *:first-child {
+  margin-left: 0;
+}
+.split-v > *:last-child {
+  margin-right: 0;
+}
+.split-h {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+/* 自己紹介部分のスタイル */
+div.icon img {
+  height: 5%;
+  object-fit: cover;
+	border-radius: 50%;
+  margin: 0 1.5em;
+}
+div.right {
+  flex: 1;
+}
+div.right > h3 {
+  margin-top: 0;
+}
+.split-v.aboutme {
+  margin: auto 0;
+  justify-items: center;
+  align-items: flex-start;
 }

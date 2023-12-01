@@ -2,7 +2,23 @@
 
 <!-- [English](en.html) -->
 
+<div class="split-v aboutme">
+<div class="left icon"><img src="./ber-taxi.svg"></div>
+<div class="right">
+
+### About me
+
+B4, Department of Economics, Sophia University
+
 計算機を中心とした色々なものが好きな学生です。
+
+### SNS
+- Twitter - [@stepney141](https://twitter.com/stepney141)
+- Fediverse - [stepney141@mstdn.maud.io](https://mstdn.maud.io/@stepney141)
+- GitHub - [stepney141](https://github.com/stepney141)
+
+</div>
+</div>
 
 ## 興味分野
 
@@ -117,18 +133,18 @@
 - [関数電卓は『リチャードソンの夢』を見るか？ 〜関数電卓による気象数値予報の試み〜](https://stepney141.hatenablog.com/entry/2020/05/27/071742)
 - [関数電卓プログラミングの世界](https://stepney141.hatenablog.com/entry/2020/12/01/235856)
 - [関数電卓プログラミングの世界：闇の魔術編](https://stepney141.hatenablog.com/entry/2020/12/24/235437)
-- [Dagaz Project](https://github.com/GlukKazan/Dagaz)：General Game Playingソフトウェア・ボードゲームエンジン (開発メンバー)
+- [Dagaz Project](https://dagazproject.github.io/)：General Game Playingソフトウェア・ボードゲームエンジン (開発メンバー)
 
 ### 経歴
 
-- 2013年4月：███中学校 入学
-- 2016年4月：同高等学校 入学
-- 2017年7月：[CombNaf](http://web.archive.org/web/20170829182306/https://atnd.org/events/87946)登壇 - 関数電卓プログラミングについてのLT
-- 2017年12月：[CombNaf2](https://combnaf.connpass.com/event/64638/)登壇 - 関数電卓でLinuxを動かそうとして失敗した話のLT
-- 2020年4月：上智大学経済学部経済学科 入学
-- 2020年6月〜2022年8月：ClipLine株式会社 開発部契約社員 (長期インターン)
-- 2022年8月：[独立行政法人情報処理推進機構 セキュリティ・キャンプ全国大会2022](https://www.ipa.go.jp/jinzai/camp/2022/zenkoku2022_index.html)受講生 - X3コース修了
-- 2024年4月(予定)：東京大学大学院総合文化研究科広域科学専攻 入学見込
+- 2013年4月 : ███中学校 入学
+- 2016年4月 : 同高等学校 入学
+- 2017年7月 : [CombNaf](http://web.archive.org/web/20170829182306/https://atnd.org/events/87946)登壇 - 関数電卓プログラミングについてのLT
+- 2017年12月 : [CombNaf2](https://combnaf.connpass.com/event/64638/)登壇 - 関数電卓でLinuxを動かそうとして失敗した話のLT
+- 2020年4月 : 上智大学経済学部経済学科 入学
+- 2020年6月〜2022年8月 : ClipLine株式会社 開発部契約社員 (長期インターン)
+- 2022年8月 : [独立行政法人情報処理推進機構 セキュリティ・キャンプ全国大会2022](https://www.ipa.go.jp/jinzai/camp/2022/zenkoku2022_index.html)受講生 - X3コース修了
+- 2024年4月(予定) : 東京大学大学院総合文化研究科広域科学専攻 入学見込
 
 ### 所属団体
 
@@ -138,25 +154,29 @@
 
 ## スキルセット
 
-- 自然言語
-  - 日本語: 母語
-  - 英語: CEFR B2程度
-  - ラテン語: 2年間の学習経験あり (原書購読の経験はなし)
+### 自然言語
 
-- プログラミング言語
-  - 実務経験がある: JavaScript (Node.jsによるテスト自動化業務等に従事)
-  - 実務以外で深く使った経験がある: TypeScript, UserRPL
-  - 実務以外で多少使った経験がある: C/C++, Python, Lua, FORTRAN 77, Elm, R, Hot Soup Processor
-  - 入門的知識はある: C#, Java, Go, Haskell, Julia, Rust
+- 日本語 : 母語
+- 英語 : CEFR B2程度
+- ラテン語 : 2年間の学習経験あり (原書購読の経験はなし)
 
-- 資格・検定等（取得年月日順）
-  - 実用英語技能検定2級 (2017年7月)
-  - 応用情報技術者 (2022年10月)
-  - 普通自動車第一種免許 (AT限定、2023年3月)
-  - TOEIC L&R 860点 (2023年4月)
-  - TOEFL iBT MyBest Scores 73 (2023年6月)
+### プログラミング言語
 
-## Links / Aliases
+- 実務経験がある : JavaScript (Node.jsによるテスト自動化業務等に従事)
+- 実務以外で深く使った経験がある : TypeScript, UserRPL
+- 実務以外で多少使った経験がある : C/C++, Python, Lua, FORTRAN 77, Elm, R, Hot Soup Processor
+- 入門的知識はある : C#, Java, Go, Haskell, Julia, Rust
+
+### 資格・検定等
+
+※取得年月日順
+- 実用英語技能検定2級 (2017年7月)
+- 応用情報技術者 (2022年10月)
+- 普通自動車第一種免許 (AT限定、2023年3月)
+- TOEIC L&R 860点 (2023年4月)
+- TOEFL iBT MyBest Scores 73 (2023年6月)
+
+## 各種アカウント等
 
 - Twitter - [@stepney141](https://twitter.com/stepney141)
 - Fediverse - [stepney141@mstdn.maud.io](https://mstdn.maud.io/@stepney141)
@@ -203,4 +223,4 @@ etc.
 
 ----
 
-Last-Modified: 2023-11-30
+Last-Modified: 2023-12-01
