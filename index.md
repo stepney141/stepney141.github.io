@@ -3,28 +3,29 @@
 <!-- [English](en.html) -->
 
 <div class="split-v aboutme">
-<div class="left icon"><img src="./ber-taxi.svg"></div>
-<div class="right">
+  <div class="left icon"><img src="./ber-taxi.svg"></div>
+  <div class="right">
 
-### About me
+  ### About me
 
-B4, Department of Economics, Sophia University
+  B4, Department of Economics, Sophia University
 
-計算機を中心とした色々なものが好きな学生です。
+  計算機を中心とした色々なものが好きな学生です。
+  経済学とゲーム情報学を専攻しています。
 
-### SNS
-- Twitter - [@stepney141](https://twitter.com/stepney141)
-- Fediverse - [stepney141@mstdn.maud.io](https://mstdn.maud.io/@stepney141)
-- GitHub - [stepney141](https://github.com/stepney141)
+  ### SNS
+  - Twitter - [@stepney141](https://twitter.com/stepney141)
+  - Fediverse - [stepney141@mstdn.maud.io](https://mstdn.maud.io/@stepney141)
+  - GitHub - [stepney141](https://github.com/stepney141)
 
-</div>
+  </div>
 </div>
 
 ## 興味分野
 
-「計算機内のシミュレーテッド＝リアリティ」・「文化の歴史」・「現代社会での異文化衝突」に関する分野が好きです。
+専攻分野の他にも、主に以下のような分野に興味を持っています（長いので、学問ジャンル別の折りたたみ要素にしています）。
 
-長いのでジャンル別の折りたたみ要素にしています。
+特に、「計算機内のシミュレーテッド＝リアリティ」・「文化の歴史」・「現代社会での異文化衝突」が関係する分野に興味を持ちやすいです。
 
 <details>
 <summary>コンピュータ・情報科学</summary>
@@ -42,10 +43,10 @@ B4, Department of Economics, Sophia University
   - Web技術
   - 低レイヤ・組み込み開発
   - グラフ関数電卓のプログラミングとリバースエンジニアリング
-- かわいいイラストの3DCGを計算機で創造するための技術
-  - 3DCGプログラミング
-  - VR/AR
-  - MMD・Blender・Unity・UE4などの各種ソフトウェア 
+- かわいいイラストを3DCG化して現実に召喚するための技術
+  - NPR / トゥーンレンダリング
+  - MR (複合現実)
+  - 各種3DCG制作ソフト
 
 </div>
 </details>
@@ -64,8 +65,8 @@ B4, Department of Economics, Sophia University
 - 数理最適化・機械学習
 - ハードウェア工作
   - 電子工作
-  - 機械工学
-  - テスラコイル自作
+  - テスラコイルの自作
+  - 倒立振り子の自作
 - 音声分析合成・音響合成
 
 </div>
@@ -99,10 +100,8 @@ B4, Department of Economics, Sophia University
 </div>
 </details>
 
-### プログラム関数電卓
-
-2022-07-09 現在、高機能電卓(プログラム関数電卓・ポケットコンピュータ類)を 13 台所有しています。  
-関数電卓の収集や評論というよりも、高機能な関数電卓を使ったプログラミングや、関数電卓のリバースエンジニアリングに興味があります。
+趣味の一つとして、高機能電卓（プログラム関数電卓・ポケットコンピュータ類）のプログラミング・リバースエンジニアリングもやっています。
+2022-07-09 現在、計 13 台を所有しています。
 
 <details>
 <summary>所有機種(入手順)</summary>
@@ -128,7 +127,7 @@ B4, Department of Economics, Sophia University
 
 ### 作ったもの・書いたもの
 
-※一部
+※主なもののみ
 
 - [関数電卓は『リチャードソンの夢』を見るか？ 〜関数電卓による気象数値予報の試み〜](https://stepney141.hatenablog.com/entry/2020/05/27/071742)
 - [関数電卓プログラミングの世界](https://stepney141.hatenablog.com/entry/2020/12/01/235856)
@@ -199,10 +198,10 @@ B4, Department of Economics, Sophia University
 - 計算機でプログラミングをして遊ぶ
 - ネットサーフィン
 - [2次元イラスト](http://www.paradisearmy.com/doujin/pasok_nijigen.htm)の収集
-- 飲酒 (芋焼酎を除く)
+- 飲酒
 - クラシック音楽 (特にバロック音楽)
 - 美術 (ウィリアム・ターナーなどが好き)
-- 海外鉄道 (主に小型蒸気機関車・貨車が好き)
+- 海外鉄道 (主に小型の蒸気機関車が好き)
 - 廃墟・都市探検
 - ラブクラフト作品の翻訳
   - [GitHubリポジトリ](https://github.com/stepney141/translation-works)：誤りを発見された場合はご報告頂けると助かります

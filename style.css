@@ -34,45 +34,7 @@ body {
   font-family: "Noto Sans JP", -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
   font-weight: 500;
   font-feature-settings: "palt" 1;
-  
   letter-spacing: .03em;
-  line-height: 1.5;
-}
-
-body a {
-  background-color: initial;
-}
-
-body a:active,
-body a:hover {
-  outline-width: 0;
-}
-
-body strong {
-  font-weight: inherit;
-  font-weight: bolder;
-}
-
-body img {
-  border-style: none;
-}
-
-body a {
-  color: #025efd;
-  text-decoration: none;
-}
-
-body a:hover {
-  text-decoration: underline;
-}
-
-body h1,
-body h2,
-body h3,
-body h4,
-body h5,
-body h6 {
-  line-height: 1.25;
 }
 
 body h1 {
@@ -82,48 +44,103 @@ body h1 {
   text-align: center;
   padding-top: 0.4em;
   padding-bottom: 0.5em;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
   border-top: dotted 3px var(--dark-blue);
   border-bottom: dotted 3px var(--dark-blue);
 }
 
 body h2 {
   color: var(--dark-blue);
-  font-size: 125%;
+  font-size: 130%;
   padding: 0.25em 0 0.25em 0;
   border-bottom: 3px double var(--text-headline-color);
+  margin-bottom: auto;
 }
 
 body h3 {
   color: var(--dark-blue);
   font-size: 120%;
-  padding: 0.25em 0 0.5em 0;
+  margin-top: 0.8em; 
+  margin-bottom: 0;
   /* border-left: 4px solid rgb(22, 61, 143); */
   border-bottom: dashed 1px var(--blue-black);
 }
-
 body h4 {
   font-size: 16px;
 }
-
 body h5 {
   font-size: 14px;
 }
-
 body h5,
 body h6 {
   font-weight: 600;
 }
-
 body h6 {
   font-size: 12px;
 }
 
-details {
-  margin-right: 1em;
+body p {
+  line-height: 1.5;
+  margin-top: 0.5em;
+  margin-bottom: 1em;
+}
+body ul {
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+  padding-left: 1.8em;
+}
+body ul li {
+  margin-bottom: 0.5em;
+}
+
+body ul ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+body strong {
+  font-weight: inherit;
+  font-weight: bolder;
+}
+
+body a {
+  background-color: initial;
+  color: #025efd;
+  text-decoration: none;
+}
+body a:hover {
+  text-decoration: underline;
+  outline-width: 0;
+}
+body a:active{
+  outline-width: 0;
+}
+body a:not([href]) {
+  color: inherit;
+  text-decoration: none;
+}
+
+body br {
+  line-height: 1.4;
+}
+
+body img {
+  max-width: 100%;
+  box-sizing: initial;
+  background-color: #fff;
+  border: solid 3px var(--black);
+}
+
+details + details {
+  margin-top: 0.5em;
+}
+details + p {
+  margin-top: 1em;
 }
 summary {
   padding: 0.4em 1em;
-  margin: 0.3em 0;
+  margin: 0.3em 0 0 0;
   border: solid 1px var(--sky-blue);
   border-radius: 7px;
   background-color: var(--pale-blue);
@@ -138,7 +155,7 @@ details[open] summary {
 }
 details[open] > div {
   animation: fadeIn 0.5s ease;
-  padding-top: 1em;
+  padding: 0 0.75em 0.5em 0.75em;
   border-radius: 7px;
   border: solid 1px var(--sky-blue);
 }
@@ -151,46 +168,6 @@ details[open] > div {
     opacity: 1;
     transform: none;
   }
-}
-
-body p {
-  margin-top: 0;
-  margin-bottom: 1em;
-}
-
-body a:not([href]) {
-  color: inherit;
-  text-decoration: none;
-}
-
-body p,
-body ul {
-  margin-top: 0;
-  margin-bottom: 16px;
-}
-
-body li > p {
-  margin-top: 16px;
-}
-
-body li + li {
-  margin-top: 0.25em;
-}
-
-body ul {
-  padding-left: 2em;
-}
-
-body ul ul {
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
-body img {
-  max-width: 100%;
-  box-sizing: initial;
-  background-color: #fff;
-  border: solid 3px var(--black);
 }
 
 .split-v {
@@ -220,13 +197,12 @@ div.icon img {
   height: 5%;
   object-fit: cover;
 	border-radius: 50%;
-  margin: 0 1.5em;
+  margin-left: 1.5em;
+  margin-right: 1.5em;
+  margin-top: 1em;
 }
 div.right {
   flex: 1;
-}
-div.right > h3 {
-  margin-top: 0;
 }
 .split-v.aboutme {
   margin: auto 0;
