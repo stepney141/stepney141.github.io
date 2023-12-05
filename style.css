@@ -80,9 +80,15 @@ body h6 {
   font-size: 12px;
 }
 
+body h1 + p,
+body h2 + p,
+body h3 + p{
+  margin-top: 0.5em;
+}
+
 body p {
   line-height: 1.5;
-  margin-top: 0.5em;
+  margin-top: 1em;
   margin-bottom: 1em;
 }
 body ul {
@@ -132,8 +138,13 @@ body img {
   border: solid 3px var(--black);
 }
 
-details + details {
+details {
+  width: 100%;
+  flex: 1 200px;
+}
+body > details + details {
   margin-top: 0.5em;
+  margin-right: 0;
 }
 details + p {
   margin-top: 1em;
@@ -177,9 +188,9 @@ details[open] > div {
   align-items: stretch;
   flex-direction: row;
 }
-.split-v > * {
+/* .split-v > * {
   margin-right: 1rem;
-}
+} */
 .split-v > *:first-child {
   margin-left: 0;
 }
