@@ -28,7 +28,7 @@
 特に、「計算機内のシミュレーテッド＝リアリティ」・「文化の歴史」・「現代社会での異文化衝突」が関係する分野に興味を持ちやすいです。
 
 <div class="split-v">
-<details>
+<details class="interested">
 <summary>コンピュータ・情報科学</summary>
 <div>
 
@@ -52,7 +52,7 @@
 </div>
 </details>
 
-<details>
+<details class="interested">
 <summary>理工・経済系</summary>
 <div>
 
@@ -73,7 +73,7 @@
 </div>
 </details>
 
-<details>
+<details class="interested">
 <summary>人文・社会系</summary>
 <div>
 
