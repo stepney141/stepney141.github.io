@@ -167,10 +167,17 @@ details {
 body > details + details {
   margin-top: 0.5em;
 }
+
 /* 横幅が狭いときはdetailsを縦並びにする */
 @media (max-width: 700px) {
   .split-v:has(details.interested) {
     flex-direction: column;
+  }
+}
+/* detailsが横並びのとき、少し間隔を空ける */
+@media (min-width: 700px) {
+  .split-v {
+    gap: 5px;
   }
 }
 
