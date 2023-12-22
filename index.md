@@ -185,6 +185,7 @@
 - HatenaBlog - ["Project Fx 2.0"](https://stepney141.hatenablog.com/)
 - Bookmeter - [ゆみや](https://bookmeter.com/users/1003258)
 - Zenn - [ゆみや](https://zenn.dev/stepney141)
+- scraobox - [stepney141](https://scrapbox.io/stepney141/)
 - Keybase - [S.I. (aka Yumiya)](https://keybase.io/stepney141)
 - Wikipedia - [利用者:Stepney-I.C.I.](https://ja.wikipedia.org/wiki/%E5%88%A9%E7%94%A8%E8%80%85:Stepney-I.C.I.)
 - その他やりたいことのメモなど - [#stepney141のメモ](https://twilog.org/stepney141/search?word=%23stepney141%E3%81%AE%E3%83%A1%E3%83%A2&ao=a)
