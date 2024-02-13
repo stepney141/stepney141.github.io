@@ -181,6 +181,7 @@
 
 - Twitter - [@stepney141](https://twitter.com/stepney141)
 - Fediverse - [stepney141@mstdn.maud.io](https://mstdn.maud.io/@stepney141)
+- Bluesky - [stepney141.bsky.social](https://bsky.app/profile/stepney141.bsky.social)
 - GitHub - [stepney141](https://github.com/stepney141)
 - HatenaBlog - ["Project Fx 2.0"](https://stepney141.hatenablog.com/)
 - Bookmeter - [ゆみや](https://bookmeter.com/users/1003258)
@@ -225,4 +226,4 @@ etc.
 
 ----
 
-Last-Modified: 2023-12-01
+Last-Modified: 2024-02-14
