@@ -201,6 +201,7 @@
 - 興味分野についての資料を読む
 - 計算機でプログラミングをして遊ぶ
 - ネットサーフィン
+- Wikipedia編集
 - [2次元イラスト](http://www.paradisearmy.com/doujin/pasok_nijigen.htm)の収集
 - 飲酒
 - クラシック音楽 (特にバロック音楽)
@@ -226,4 +227,4 @@ etc.
 
 ----
 
-Last-Modified: 2024-02-14
+Last-Modified: 2024-02-24
