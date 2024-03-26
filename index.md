@@ -6,26 +6,25 @@
   <div class="left icon"><img src="./ber-taxi.svg"></div>
   <div class="right">
 
-  ### About me
+### About me
 
-  B4, Department of Economics, Sophia University
+A graduate student in the Department of General Systems Studies.
 
-  計算機を中心とした色々なものが好きな学生です。
-  経済学とゲーム情報学を専攻しています。
+計算機を中心とした色々なものが好きな学生です。
+経済学とゲーム情報学を専攻しています。
 
-  ### SNS
-  - Twitter - [@stepney141](https://twitter.com/stepney141)
-  - Fediverse - [stepney141@mstdn.maud.io](https://mstdn.maud.io/@stepney141)
-  - GitHub - [stepney141](https://github.com/stepney141)
+### SNS
 
-  </div>
+- Twitter - [@stepney141](https://twitter.com/stepney141)
+- Fediverse - [stepney141@mstdn.maud.io](https://mstdn.maud.io/@stepney141)
+- GitHub - [stepney141](https://github.com/stepney141)
+
+</div>
 </div>
 
-## 興味分野
+## 興味のある分野
 
-専攻分野の他にも、主に以下のような分野に興味を持っています（長いので、学問ジャンル別の折りたたみ要素にしています）。
-
-特に、「計算機内のシミュレーテッド＝リアリティ」・「文化の歴史」・「現代社会での異文化衝突」が関係する分野に興味を持ちやすいです。
+自分が興味を持っている/既に好きである分野の一覧です。「計算機内のシミュレーテッド＝リアリティ」・「文化の歴史」・「現代社会での異文化衝突」のいずれかが関係する分野に興味を持ちやすいです。
 
 <div class="split-v">
 <details class="interested">
@@ -144,14 +143,15 @@
 - 2017年12月 : [CombNaf2](https://combnaf.connpass.com/event/64638/)登壇 - 関数電卓でLinuxを動かそうとして失敗した話のLT
 - 2020年4月 : 上智大学経済学部経済学科 入学
 - 2020年6月〜2022年8月 : ClipLine株式会社 開発部契約社員 (長期インターン)
-- 2022年8月 : [独立行政法人情報処理推進機構 セキュリティ・キャンプ全国大会2022](https://www.ipa.go.jp/jinzai/camp/2022/zenkoku2022_index.html)受講生 - X3コース修了
-- 2024年4月(予定) : 東京大学大学院総合文化研究科広域科学専攻 入学見込
+- 2022年8月 : [独立行政法人情報処理推進機構 セキュリティ・キャンプ全国大会2022](https://www.ipa.go.jp/jinzai/camp/2022/zenkoku2022_index.html) - X3コース修了
+- 2024年4月 : 東京大学大学院総合文化研究科広域科学専攻 入学
 
 ### 所属団体
 
 - ███中高鉄道研究部 (現OB)：2013年度〜2017年度在籍
-- [███中高コンピュータ部](https://kogyokusha-gcc.github.io/) (現OB)：2015年度〜2018年度在籍 (2017年度副部長)
-- [SEL(上智大学エレクトロニクス研究部)](https://selelab.com/)：2020年度より在籍中 (2021年度副部長→2022年度部長)
+- [███中高コンピュータ部](https://kogyokusha-gcc.github.io/)：2015年度〜2018年度在籍 (2017年度副部長)
+- [上智大学エレクトロニクスラボ](https://selelab.com/)：2020年度〜2023年度在籍 (2021年度副部長→2022年度部長)
+- [TSG(東京大学理論科学グループ)](https://tsg.ne.jp/)：2024年より在籍中
 
 ## スキルセット
 
@@ -159,7 +159,7 @@
 
 - 日本語 : 母語
 - 英語 : CEFR B2程度
-- ラテン語 : 2年間の学習経験あり (原書購読の経験はなし)
+- ラテン語 : 初級者 (上智大学文学部で2年間の履修経験あり。ただし原書購読の経験はなし)
 
 ### プログラミング言語
 
@@ -171,11 +171,13 @@
 ### 資格・検定等
 
 ※取得年月日順
+
 - 実用英語技能検定2級 (2017年7月)
 - 応用情報技術者 (2022年10月)
 - 普通自動車第一種免許 (AT限定、2023年3月)
 - TOEIC L&R 860点 (2023年4月)
 - TOEFL iBT MyBest Scores 73 (2023年6月)
+- 学士（経済学） (2024年3月)
 
 ## 各種アカウント等
 
@@ -198,7 +200,7 @@
 ## その他の趣味
 
 - 書店巡り
-- 興味分野についての資料を読む
+- 興味のある分野についての資料を読む
 - 計算機でプログラミングをして遊ぶ
 - ネットサーフィン
 - Wikipedia編集
@@ -227,4 +229,4 @@ etc.
 
 ----
 
-Last-Modified: 2024-02-24
+Last-Modified: 2024-03-26
