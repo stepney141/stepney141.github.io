@@ -3,7 +3,7 @@
 <!-- [English](en.html) -->
 
 <div class="split-v aboutme">
-  <div class="left icon"><img src="./ber-taxi.svg"></div>
+  <div class="left icon"><img src="./custom-taxi.svg"></div>
   <div class="right">
 
 ### About me
