@@ -22,9 +22,9 @@ A graduate student in the Department of General Systems Studies.
 </div>
 </div>
 
-## 興味のある分野
+## 好きな分野・今後触れてみたい分野
 
-自分が興味を持っている/既に好きである分野の一覧です。「計算機内のシミュレーテッド＝リアリティ」・「文化の歴史」・「現代社会での異文化衝突」のいずれかが関係する分野に興味を持ちやすいです。
+※タップ/クリックで展開
 
 <div class="split-v">
 <details class="interested">
@@ -150,7 +150,7 @@ A graduate student in the Department of General Systems Studies.
 
 - ███中高鉄道研究部 (現OB)：2013年度〜2017年度在籍
 - [███中高コンピュータ部](https://kogyokusha-gcc.github.io/)：2015年度〜2018年度在籍 (2017年度副部長)
-- [上智大学エレクトロニクスラボ](https://selelab.com/)：2020年度〜2023年度在籍 (2021年度副部長→2022年度部長)
+- [上智大学エレクトロニクスラボ](https://selelab.com/)：2020年度〜2023年度在籍 (2021年度副部長→2022年度・2023年度部長)
 - [TSG(東京大学理論科学グループ)](https://tsg.ne.jp/)：2024年より在籍中
 
 ## スキルセット
@@ -229,4 +229,4 @@ etc.
 
 ----
 
-Last-Modified: 2024-03-26
+Last-Modified: 2024-03-30
