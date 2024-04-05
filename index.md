@@ -10,19 +10,18 @@
 
 A graduate student in the Department of General Systems Studies.
 
-計算機を中心とした色々なものが好きな学生です。
-経済学とゲーム情報学を専攻しています。
-
-### SNS
-
-- Twitter - [@stepney141](https://twitter.com/stepney141)
-- Fediverse - [stepney141@mstdn.maud.io](https://mstdn.maud.io/@stepney141)
-- GitHub - [stepney141](https://github.com/stepney141)
-
 </div>
 </div>
 
-## 好きな分野・今後触れてみたい分野
+## 経歴
+
+- 2013年4月 : ███中学校 入学
+- 2016年4月 : 同高等学校 入学
+- 2020年4月 : 上智大学経済学部経済学科 入学
+- 2020年6月〜2022年8月 : ClipLine株式会社 開発部契約社員 (長期インターン)
+- 2024年4月 : 東京大学大学院総合文化研究科広域科学専攻広域システム科学系 入学
+
+## 興味のある分野
 
 ※タップ/クリックで展開
 
@@ -126,31 +125,25 @@ A graduate student in the Department of General Systems Studies.
 
 ## 活動
 
-### 作ったもの・書いたもの
-
-※主なもののみ
+### 主な作品・記事
 
 - [関数電卓は『リチャードソンの夢』を見るか？ 〜関数電卓による気象数値予報の試み〜](https://stepney141.hatenablog.com/entry/2020/05/27/071742)
 - [関数電卓プログラミングの世界](https://stepney141.hatenablog.com/entry/2020/12/01/235856)
 - [関数電卓プログラミングの世界：闇の魔術編](https://stepney141.hatenablog.com/entry/2020/12/24/235437)
 - [Dagaz Project](https://dagazproject.github.io/)：General Game Playingソフトウェア・ボードゲームエンジン (開発メンバー)
 
-### 経歴
+### 各種イベント等
 
-- 2013年4月 : ███中学校 入学
-- 2016年4月 : 同高等学校 入学
 - 2017年7月 : [CombNaf](http://web.archive.org/web/20170829182306/https://atnd.org/events/87946)登壇 - 関数電卓プログラミングについてのLT
 - 2017年12月 : [CombNaf2](https://combnaf.connpass.com/event/64638/)登壇 - 関数電卓でLinuxを動かそうとして失敗した話のLT
-- 2020年4月 : 上智大学経済学部経済学科 入学
-- 2020年6月〜2022年8月 : ClipLine株式会社 開発部契約社員 (長期インターン)
 - 2022年8月 : [独立行政法人情報処理推進機構 セキュリティ・キャンプ全国大会2022](https://www.ipa.go.jp/jinzai/camp/2022/zenkoku2022_index.html) - X3コース修了
-- 2024年4月 : 東京大学大学院総合文化研究科広域科学専攻 入学
 
 ### 所属団体
 
 - ███中高鉄道研究部 (現OB)：2013年度〜2017年度在籍
 - [███中高コンピュータ部](https://kogyokusha-gcc.github.io/)：2015年度〜2018年度在籍 (2017年度副部長)
 - [上智大学エレクトロニクスラボ](https://selelab.com/)：2020年度〜2023年度在籍 (2021年度副部長→2022年度・2023年度部長)
+- [一般社団法人 情報処理学会](https://www.ipsj.or.jp/index.html) 学生会員
 - [TSG(東京大学理論科学グループ)](https://tsg.ne.jp/)：2024年より在籍中
 
 ## スキルセット
@@ -158,12 +151,12 @@ A graduate student in the Department of General Systems Studies.
 ### 自然言語
 
 - 日本語 : 母語
-- 英語 : CEFR B2程度
+- 英語 : 中級者 (CEFR B2程度)
 - ラテン語 : 初級者 (上智大学文学部で2年間の履修経験あり。ただし原書購読の経験はなし)
 
 ### プログラミング言語
 
-- 実務経験がある : JavaScript (Node.jsによるテスト自動化業務等に従事)
+- 実務経験がある : JavaScript (Node.jsを使ったテスト自動化業務等への従事経験あり)
 - 実務以外で深く使った経験がある : TypeScript, UserRPL
 - 実務以外で多少使った経験がある : C/C++, Python, Lua, FORTRAN 77, Elm, R, Hot Soup Processor
 - 入門的知識はある : C#, Java, Go, Haskell, Julia, Rust
@@ -181,20 +174,22 @@ A graduate student in the Department of General Systems Studies.
 
 ## 各種アカウント等
 
+### SNS
+
 - Twitter - [@stepney141](https://twitter.com/stepney141)
+- GitHub - [stepney141](https://github.com/stepney141)
 - Fediverse - [stepney141@mstdn.maud.io](https://mstdn.maud.io/@stepney141)
 - Bluesky - [stepney141.bsky.social](https://bsky.app/profile/stepney141.bsky.social)
-- GitHub - [stepney141](https://github.com/stepney141)
+
+### Webサービス
+
 - HatenaBlog - ["Project Fx 2.0"](https://stepney141.hatenablog.com/)
-- Bookmeter - [ゆみや](https://bookmeter.com/users/1003258)
 - Zenn - [ゆみや](https://zenn.dev/stepney141)
-- scraobox - [stepney141](https://scrapbox.io/stepney141/)
+- Bookmeter - [ゆみや](https://bookmeter.com/users/1003258)
+- scrapbox - [stepney141](https://scrapbox.io/stepney141/)
 - Keybase - [S.I. (aka Yumiya)](https://keybase.io/stepney141)
 - Wikipedia - [利用者:Stepney-I.C.I.](https://ja.wikipedia.org/wiki/%E5%88%A9%E7%94%A8%E8%80%85:Stepney-I.C.I.)
-- その他やりたいことのメモなど - [#stepney141のメモ](https://twilog.org/stepney141/search?word=%23stepney141%E3%81%AE%E3%83%A1%E3%83%A2&ao=a)
 <!-- - [Amazon欲しいものリスト](https://www.amazon.jp/hz/wishlist/ls/9DMJ9MP1LX82?ref_=wl_share:embed:cite)：5000兆円欲しい -->
-- E-Mail - stepney141andi.c.i (at) gmail.com
-- Discord - stepney141#8609
 - 5chトリップ - ◆sOHUy6jdA4II or ◆dR229TZisIOd
 
 ## その他の趣味
@@ -229,4 +224,4 @@ etc.
 
 ----
 
-Last-Modified: 2024-03-30
+Last-Modified: 2024-04-05

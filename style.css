@@ -230,19 +230,24 @@ details[open] > div {
 }
 
 /* 自己紹介部分のスタイル */
-div.icon img {
-  height: 5%;
-  object-fit: cover;
-  border-radius: 50%;
-  margin-left: 1.5em;
-  margin-right: 1.5em;
-  margin-top: 1em;
-}
-div.right {
-  flex: 1;
-}
 .split-v.aboutme {
   margin: auto 0;
   justify-items: center;
   align-items: flex-start;
+}
+div.left {
+  width: 250px;
+  flex-grow: 0;
+}
+div.right {
+  flex-grow: 1;
+}
+div.icon img {
+  height: 1%;
+  max-width: 50%;
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
