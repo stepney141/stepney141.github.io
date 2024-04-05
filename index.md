@@ -140,15 +140,15 @@ A graduate student in the Department of General Systems Studies.
 
 ### 所属団体
 
-- ███中高鉄道研究部 (現OB)：2013年度〜2017年度在籍
-- [███中高コンピュータ部](https://kogyokusha-gcc.github.io/)：2015年度〜2018年度在籍 (2017年度副部長)
-- [上智大学エレクトロニクスラボ](https://selelab.com/)：2020年度〜2023年度在籍 (2021年度副部長→2022年度・2023年度部長)
+- ███中高鉄道研究部：2013〜2017年度
+- [███中高コンピュータ部](https://kogyokusha-gcc.github.io/)：2015〜2018年度 (2017年度副部長)
+- [上智大学エレクトロニクスラボ](https://selelab.com/)：2020〜2023年度在籍 (2021年度副部長→2022・2023年度部長)
 - [一般社団法人 情報処理学会](https://www.ipsj.or.jp/index.html) 学生会員
 - [TSG(東京大学理論科学グループ)](https://tsg.ne.jp/)：2024年より在籍中
 
 ## スキルセット
 
-### 自然言語
+### 語学
 
 - 日本語 : 母語
 - 英語 : 中級者 (CEFR B2程度)
@@ -181,16 +181,16 @@ A graduate student in the Department of General Systems Studies.
 - Fediverse - [stepney141@mstdn.maud.io](https://mstdn.maud.io/@stepney141)
 - Bluesky - [stepney141.bsky.social](https://bsky.app/profile/stepney141.bsky.social)
 
-### Webサービス
+### その他Webサービス
 
 - HatenaBlog - ["Project Fx 2.0"](https://stepney141.hatenablog.com/)
 - Zenn - [ゆみや](https://zenn.dev/stepney141)
 - Bookmeter - [ゆみや](https://bookmeter.com/users/1003258)
 - scrapbox - [stepney141](https://scrapbox.io/stepney141/)
-- Keybase - [S.I. (aka Yumiya)](https://keybase.io/stepney141)
+- Keybase - [stepney141](https://keybase.io/stepney141)
 - Wikipedia - [利用者:Stepney-I.C.I.](https://ja.wikipedia.org/wiki/%E5%88%A9%E7%94%A8%E8%80%85:Stepney-I.C.I.)
 <!-- - [Amazon欲しいものリスト](https://www.amazon.jp/hz/wishlist/ls/9DMJ9MP1LX82?ref_=wl_share:embed:cite)：5000兆円欲しい -->
-- 5chトリップ - ◆sOHUy6jdA4II or ◆dR229TZisIOd
+<!-- - 5chトリップ - ◆sOHUy6jdA4II or ◆dR229TZisIOd -->
 
 ## その他の趣味
 
