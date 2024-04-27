@@ -151,8 +151,8 @@ A graduate student in the Department of General Systems Studies.
 ### 語学
 
 - 日本語 : 母語
-- 英語 : 中級者 (CEFR B2程度)
-- ラテン語 : 初級者 (上智大学文学部で2年間の履修経験あり。ただし原書購読の経験はなし)
+- English : Intermediate (CEFR B2程度)
+- Lingua latina : Neophytus (初級者。上智大学文学部で2年間の履修経験あり。ただし原書購読の経験はなし)
 
 ### プログラミング言語
 
