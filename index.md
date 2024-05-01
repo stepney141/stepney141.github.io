@@ -36,7 +36,7 @@ A graduate student in the Department of General Systems Studies.
     - Webアーカイブ
   - ゲーム情報学
     - General Game Playing
-    - 古将棋のゲームAI
+    - ボードゲームのAI
   etc.
 - ソフトウェア開発
   - Web技術
@@ -54,8 +54,8 @@ A graduate student in the Department of General Systems Studies.
 <summary>理工・経済系</summary>
 <div>
 
-- 経済学
-  - (応用)ミクロ経済学・ゲーム理論
+- 経済学・データ分析
+  - 実証ミクロ経済学
   - 計量経済学
 - 統計学
 - 計算科学・数値シミュレーション
