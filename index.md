@@ -8,7 +8,9 @@
 
 ### About me
 
-A graduate student in the Department of General Systems Studies.
+情報系の修士課程で、ボードゲームのAI技術や最善進行求解 (弱解決) に関する研究をしています。経済学部時代は、経済数学ゼミで統計学や計量経済学を専攻していました。
+
+ソフトウェア・ハードウェアの両輪からコンピュータに触ることが好きです。あらゆるアプリケーションがブラウザ上で完結する世界にロマンを感じているため、特にWeb技術に興味があります。普段は主にTypeScriptとNode.jsを使って、自分や周囲が必要になったものを必要に応じて作っています。
 
 </div>
 </div>
@@ -100,8 +102,7 @@ A graduate student in the Department of General Systems Studies.
 </details>
 </div>
 
-趣味の一つとして、高機能電卓（プログラム関数電卓・ポケットコンピュータ類）のプログラミング・リバースエンジニアリングもやっています。
-2022-07-09 現在、計 13 台を所有しています。
+趣味の一つとして、高機能電卓（プログラム関数電卓・ポケットコンピュータ類）のプログラミングやリバースエンジニアリングにも興味があります。2022-07-09現在、計13台を所有しています。
 
 <details>
 <summary>所有機種(入手順)</summary>
@@ -132,6 +133,8 @@ A graduate student in the Department of General Systems Studies.
 - [関数電卓プログラミングの世界：闇の魔術編](https://stepney141.hatenablog.com/entry/2020/12/24/235437)
 - [Dagaz Project](https://dagazproject.github.io/)：General Game Playingソフトウェア・ボードゲームエンジン (開発メンバー)
 
+その他、[GitHub](https://github.com/stepney141)・[Zenn](https://zenn.dev/stepney141)・[個人ブログ](https://stepney141.hatenablog.com/)もご参照ください。
+
 ### 各種イベント等
 
 - 2017年7月 : [CombNaf](http://web.archive.org/web/20170829182306/https://atnd.org/events/87946)登壇 - 関数電卓プログラミングについてのLT
@@ -142,8 +145,8 @@ A graduate student in the Department of General Systems Studies.
 
 - ███中高鉄道研究部：2013〜2017年度
 - [███中高コンピュータ部](https://kogyokusha-gcc.github.io/)：2015〜2018年度 (2017年度副部長)
-- [上智大学エレクトロニクスラボ](https://selelab.com/)：2020〜2023年度在籍 (2021年度副部長→2022・2023年度部長)
-- [一般社団法人 情報処理学会](https://www.ipsj.or.jp/index.html) 学生会員
+- [上智大学エレクトロニクスラボ](https://selelab.com/)：卒業会員 (2021年度副部長→2022・2023年度部長)
+- [一般社団法人 情報処理学会](https://www.ipsj.or.jp/index.html)：学生会員
 - [TSG(東京大学理論科学グループ)](https://tsg.ne.jp/)：2024年より在籍中
 
 ## スキルセット
@@ -224,4 +227,4 @@ etc.
 
 ----
 
-Last-Modified: 2024-04-05
+Last-Modified: 2024-05-08
