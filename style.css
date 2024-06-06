@@ -20,7 +20,7 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
-  align-items: stretch;
+  align-items: flex-start; /* Safari対策のため。 ref: https://qiita.com/kouz496/items/be477bc63cf27a013603 */
   flex-direction: row;
 }
 /* .split-v > * {

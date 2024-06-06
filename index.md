@@ -3,8 +3,8 @@
 <!-- [English](en.html) -->
 
 <div class="split-v aboutme">
-  <div class="left icon"><img src="./custom-taxi.svg"></div>
-  <div class="right">
+<div class="left icon"><img src="./custom-taxi-1024px.png"></div>
+<div class="right">
 
 ### About me
 
