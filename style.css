@@ -1,6 +1,11 @@
 /* 以下、GitHubのMarkdwonのCSSをベースに改変 */
 /* 参考：https://qiita.com/__mick/items/c80fab6c185a41882880 */
 
+html {
+  text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
 @import url('https://fonts.googleapis.com/css2?family=BIZ+UDGothic&family=Noto+Sans+JP:wght@100..900&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 :root {
   --black: #0f1d5b;
@@ -249,7 +254,7 @@ div.right {
   flex-grow: 1;
 }
 div.icon img {
-  height: 1%;
+  height: auto;
   max-width: 50%;
   object-fit: cover;
   border-radius: 50%;
