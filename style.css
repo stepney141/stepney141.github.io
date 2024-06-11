@@ -58,12 +58,13 @@ body {
   color: var(--black);
   font-size: 1rem;
   font-family: "Noto Sans", "BIZ UDGothic", BlinkMacSystemFont, Segoe UI, Helvetica, Arial, Apple Color Emoji, Segoe UI Emoji, -apple-system, sans-serif;
+  font-style: normal;
   font-weight: 400;
   font-feature-settings: "palt" 1;
   letter-spacing: 0.03em;
 
-  animation: fadeIn 1s ease 0s 1 normal;
-  -webkit-animation: fadeIn 1s ease 0s 1 normal;
+  animation: fadeIn 2s ease 0s 1 normal;
+  -webkit-animation: fadeIn 2s ease 0s 1 normal;
 }
 
 @keyframes fadeIn {
