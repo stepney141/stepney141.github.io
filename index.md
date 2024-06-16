@@ -146,9 +146,10 @@
 
 - ███中高鉄道研究部：2013〜2017年度
 - [███中高コンピュータ部](https://kogyokusha-gcc.github.io/)：2015〜2018年度 (2017年度副部長)
+- [日本机戦連盟](https://sites.google.com/view/cet2kaik/)：2020年くらいから参加
 - [上智大学エレクトロニクスラボ](https://selelab.com/)：卒業会員 (2021年度副部長→2022・2023年度部長)
 - [一般社団法人 情報処理学会](https://www.ipsj.or.jp/index.html)：学生会員
-- [TSG(東京大学理論科学グループ)](https://tsg.ne.jp/)：2024年より在籍中
+- [TSG (東京大学理論科学グループ)](https://tsg.ne.jp/)：2024年より在籍中
 
 ## スキルセット
 
@@ -228,4 +229,4 @@ etc.
 
 ----
 
-Last-Modified: 2024-06-08
+Last-Modified: 2024-06-17
