@@ -1,4 +1,4 @@
-# stepney141 / Yumiya
+# stepney141's info
 
 <!-- [English](en.html) -->
 
@@ -193,7 +193,7 @@
 - Bookmeter - [ゆみや](https://bookmeter.com/users/1003258)
 - scrapbox - [stepney141](https://scrapbox.io/stepney141/)
 - Keybase - [stepney141](https://keybase.io/stepney141)
-- Wikipedia - [利用者:Stepney-I.C.I.](https://ja.wikipedia.org/wiki/%E5%88%A9%E7%94%A8%E8%80%85:Stepney-I.C.I.)
+<!-- - Wikipedia - [利用者:Stepney-I.C.I.](https://ja.wikipedia.org/wiki/%E5%88%A9%E7%94%A8%E8%80%85:Stepney-I.C.I.) -->
 <!-- - [Amazon欲しいものリスト](https://www.amazon.jp/hz/wishlist/ls/9DMJ9MP1LX82?ref_=wl_share:embed:cite)：5000兆円欲しい -->
 <!-- - 5chトリップ - ◆sOHUy6jdA4II or ◆dR229TZisIOd -->
 
@@ -217,6 +217,7 @@
 - ガジェット収集  
 etc.
 
+<!--
 ### 好きなコンテンツ
 
 - 禁書 (創約6巻まで履修済み)
@@ -226,7 +227,8 @@ etc.
 - SCP Foundation
 - プリキュア  
 etc.
+-->
 
 ----
 
-Last-Modified: 2024-06-17
+Last-Modified: 2024-07-10
