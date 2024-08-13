@@ -140,7 +140,7 @@
 - 2017年7月 : [CombNaf](http://web.archive.org/web/20170829182306/https://atnd.org/events/87946)登壇 - 関数電卓プログラミングについてのLT
 - 2017年12月 : [CombNaf2](https://combnaf.connpass.com/event/64638/)登壇 - 関数電卓でLinuxを動かそうとして失敗した話のLT
 - 2022年8月 : [独立行政法人情報処理推進機構 セキュリティ・キャンプ全国大会2022](https://www.ipa.go.jp/jinzai/camp/2022/zenkoku2022_index.html) - X3コース修了
-- 2024年8月 : [独立行政法人情報処理推進機構 セキュリティ・キャンプ全国大会2024 ネクスト](https://www.ipa.go.jp/jinzai/security-camp/2024/camp/next/index.html) - 受講生として参加予定
+- 2024年8月 : [独立行政法人情報処理推進機構 セキュリティ・キャンプ全国大会2024 ネクスト](https://www.ipa.go.jp/jinzai/security-camp/2024/camp/next/index.html)
 
 ### 所属団体
 
