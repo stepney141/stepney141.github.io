@@ -186,7 +186,7 @@
 - GitHub - [stepney141](https://github.com/stepney141)
 - Fediverse - [stepney141@mstdn.maud.io](https://mstdn.maud.io/@stepney141)
 - Bluesky - [stepney141.bsky.social](https://bsky.app/profile/stepney141.bsky.social)
-- ORCID - [0009-0009-9899-5221](https://orcid.org/0009-0009-9899-5221]
+- ORCID - [0009-0009-9899-5221](https://orcid.org/0009-0009-9899-5221)
 
 ### その他Webサービス
 
