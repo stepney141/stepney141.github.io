@@ -164,9 +164,9 @@
 ### プログラミング言語
 
 - 実務経験がある : JavaScript (Node.jsを使ったテスト自動化業務等への従事経験あり)
-- 実務以外で深く使った経験がある : TypeScript, UserRPL
+- 実務以外で深く使った経験がある : TypeScript, UserRPL, Rust
 - 実務以外で多少使った経験がある : C/C++, Python, Lua, FORTRAN 77, Elm, R, Hot Soup Processor
-- 入門的知識はある : C#, Java, Go, Haskell, Julia, Rust
+- 入門的知識はある : C#, Java, Go, Haskell, Julia
 
 ### 資格・検定等
 
