@@ -154,6 +154,7 @@
 - [上智大学エレクトロニクスラボ](https://selelab.com/)：卒業会員
 - [一般社団法人 情報処理学会](https://www.ipsj.or.jp/index.html)
 - [東京大学TSG (理論科学グループ)](https://tsg.ne.jp/)
+- [日本中将棋連盟](https://www.chushogi-renmei.com/index.htm) (サポーター会員)
 
 ## スキルセット
 
