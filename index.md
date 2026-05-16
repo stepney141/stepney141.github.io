@@ -18,7 +18,7 @@
 ## 職歴
 
 - 2020年6月〜2022年8月 : ClipLine株式会社 開発部契約社員 (長期インターン)
-- 2026年4月 : 株式会社███████
+- 2026年4月〜 : 株式会社███████
 
 ## 学歴
 
@@ -147,12 +147,13 @@
 - 2025年8月 : [独立行政法人情報処理推進機構 セキュリティ・キャンプ全国大会2025 ネクスト](https://www.ipa.go.jp/jinzai/security-camp/2025/camp/next/index.html) - チューター
 
 ### 所属団体
-
+<!--
 - ███中高鉄道研究部：2013〜2017年度
 - [███中高コンピュータ部](https://kogyokusha-gcc.github.io/)：2015〜2018年度 (2017年度副部長)
-- [日本机戦連盟](https://sites.google.com/view/cet2kaik/)
 - [上智大学エレクトロニクスラボ](https://selelab.com/)：卒業会員
-- [一般社団法人 情報処理学会](https://www.ipsj.or.jp/index.html)
+-->
+- [日本机戦連盟](https://sites.google.com/view/cet2kaik/)
+- [一般社団法人 情報処理学会](https://www.ipsj.or.jp/index.html) (正会員)
 - [東京大学TSG (理論科学グループ)](https://tsg.ne.jp/)
 - [日本中将棋連盟](https://www.chushogi-renmei.com/index.htm) (サポーター会員)
 
