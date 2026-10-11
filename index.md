@@ -129,6 +129,13 @@
 
 ## 活動
 
+### 受賞
+
+- [情報処理学会 ゲーム情報学研究会 若手奨励賞](https://www.ipsj.or.jp/award/gi-award1.html) (2024)
+- [情報処理学会 GPW優秀論文賞](https://www.gi-ipsj.org/gpw/award.html) (2024)
+- 情報処理学会 GPW優秀論文賞 (2025)
+- [情報処理学会 山下記念研究賞](https://www.ipsj.or.jp/award/yamashita2026.html) (2026)
+
 ### 主な作品・記事
 
 - [関数電卓は『リチャードソンの夢』を見るか？ 〜関数電卓による気象数値予報の試み〜](https://stepney141.hatenablog.com/entry/2020/05/27/071742)
