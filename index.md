@@ -1,7 +1,5 @@
 # stepney141's info
 
-<!-- [English](en.html) -->
-
 <div class="split-v aboutme">
 <div class="left icon"><img src="./custom-taxi-1024px.png"></div>
 <div class="right">
@@ -248,4 +246,4 @@ etc.
 
 ----
 
-Last-Modified: 2024-07-10
+Last-Modified: 2026-10-17
